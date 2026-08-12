@@ -1,0 +1,11 @@
+{
+  "name": "rewired",
+  "version": "1.0.0",
+  "description": "The complete Rewired member toolkit in one install: a daily morning brief, a personal board of advisors, email drafting in your own voice, a humanizer for everything you write, executive meeting briefings, a research agent, idea pressure-testing and meeting discipline tools, plus 28 bestselling business books as working frameworks (Voss, Hormozi, Dunford, Rumelt, Grove, Christensen and more). Curated and vetted by Rewired.",
+  "author": {
+    "name": "Rewired"
+  },
+  "license": "MIT",
+  "homepage": "https://rewired30.com",
+  "keywords": ["rewired", "productivity", "executive", "morning-brief", "board-of-advisors", "email", "humanize", "meeting-prep", "research", "negotiation", "strategy", "marketing", "business-books"]
+}

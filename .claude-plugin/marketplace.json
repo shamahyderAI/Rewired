@@ -1,0 +1,12 @@
+{
+  "name": "rewired",
+  "owner": {
+    "name": "Rewired"
+  },
+  "plugins": [
+    {
+      "name": "rewired",
+      "source": "./rewired"
+    }
+  ]
+}
