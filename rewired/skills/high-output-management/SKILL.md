@@ -205,9 +205,9 @@ See: [references/case-studies.md](references/case-studies.md) when preparing a r
 
 ## Further Reading
 
-- [*"High Output Management"*](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) by Andrew S. Grove
-- [*"Only the Paranoid Survive"*](https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821) by Andrew S. Grove
-- [*"Measure What Matters"*](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221) by John Doerr
+- [*"High Output Management"*](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884?tag=rewired02-20) by Andrew S. Grove
+- [*"Only the Paranoid Survive"*](https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821?tag=rewired02-20) by Andrew S. Grove
+- [*"Measure What Matters"*](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221?tag=rewired02-20) by John Doerr
 
 ## About the Author
 

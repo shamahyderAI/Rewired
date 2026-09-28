@@ -243,8 +243,8 @@ Audit any product development plan:
 
 For the complete framework, research, and case studies:
 
-- [*"The Lean Startup"*](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) by Eric Ries
-- [*"The Startup Way"*](https://www.amazon.com/Startup-Way-Companies-Entrepreneurial-Management/dp/1101903201) by Eric Ries (applying Lean Startup to established companies)
+- [*"The Lean Startup"*](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898?tag=rewired02-20) by Eric Ries
+- [*"The Startup Way"*](https://www.amazon.com/Startup-Way-Companies-Entrepreneurial-Management/dp/1101903201?tag=rewired02-20) by Eric Ries (applying Lean Startup to established companies)
 
 ## About the Author
 

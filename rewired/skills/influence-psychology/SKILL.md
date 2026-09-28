@@ -306,8 +306,8 @@ Audit any persuasive element:
 
 Based on Robert Cialdini's research and books:
 
-- [*"Influence: The Psychology of Persuasion"*](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) by Robert B. Cialdini (Original + Expanded Edition with Unity principle)
-- [*"Pre-Suasion: A Revolutionary Way to Influence and Persuade"*](https://www.amazon.com/Pre-Suasion-Revolutionary-Way-Influence-Persuade/dp/1501109790) by Robert B. Cialdini (Advanced: creating privileged moments for influence)
+- [*"Influence: The Psychology of Persuasion"*](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X?tag=rewired02-20) by Robert B. Cialdini (Original + Expanded Edition with Unity principle)
+- [*"Pre-Suasion: A Revolutionary Way to Influence and Persuade"*](https://www.amazon.com/Pre-Suasion-Revolutionary-Way-Influence-Persuade/dp/1501109790?tag=rewired02-20) by Robert B. Cialdini (Advanced: creating privileged moments for influence)
 
 ## About the Author
 

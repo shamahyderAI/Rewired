@@ -273,8 +273,8 @@ See: [references/viral-content-patterns.md](references/viral-content-patterns.md
 
 ## Further Reading
 
-- [Contagious: Why Things Catch On](https://www.amazon.com/Contagious-Things-Catch-Jonah-Berger/dp/1451686579) by Jonah Berger
-- [The Catalyst: How to Change Anyone's Mind](https://www.amazon.com/Catalyst-How-Change-Anyones-Mind/dp/1982108606) by Jonah Berger
+- [Contagious: Why Things Catch On](https://www.amazon.com/Contagious-Things-Catch-Jonah-Berger/dp/1451686579?tag=rewired02-20) by Jonah Berger
+- [The Catalyst: How to Change Anyone's Mind](https://www.amazon.com/Catalyst-How-Change-Anyones-Mind/dp/1982108606?tag=rewired02-20) by Jonah Berger
 
 ## About the Author
 

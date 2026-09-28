@@ -234,7 +234,7 @@ Audit any sprint plan:
 
 For the complete methodology, exercises, and case studies:
 
-- [*"Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days"*](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X) by Jake Knapp, John Zeratsky, Braden Kowitz
+- [*"Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days"*](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X?tag=rewired02-20) by Jake Knapp, John Zeratsky, Braden Kowitz
 
 ## About the Author
 

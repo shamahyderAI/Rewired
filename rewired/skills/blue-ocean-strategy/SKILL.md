@@ -165,8 +165,8 @@ See [references/sequence.md](references/sequence.md) when validating an idea gat
 
 Based on Blue Ocean Strategy by W. Chan Kim and Renée Mauborgne:
 
-- [*"Blue Ocean Strategy"*](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491) by W. Chan Kim & Renée Mauborgne (Expanded Edition)
-- [*"Blue Ocean Shift"*](https://www.amazon.com/Blue-Ocean-Shift-Competing-Confidence/dp/0316314048) by W. Chan Kim & Renée Mauborgne (practical guide to making the shift)
+- [*"Blue Ocean Strategy"*](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491?tag=rewired02-20) by W. Chan Kim & Renée Mauborgne (Expanded Edition)
+- [*"Blue Ocean Shift"*](https://www.amazon.com/Blue-Ocean-Shift-Competing-Confidence/dp/0316314048?tag=rewired02-20) by W. Chan Kim & Renée Mauborgne (practical guide to making the shift)
 
 ## About the Authors
 

@@ -180,11 +180,11 @@ See [references/case-studies.md](references/case-studies.md) for end-to-end work
 
 ## Further Reading
 
-- [*"Getting Real"*](https://www.amazon.com/Getting-Real-Smarter-Successful-Application/dp/0578012812) by Jason Fried & David Heinemeier Hansson
-- [*"Rework"*](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745) by Jason Fried & David Heinemeier Hansson
-- [*"Shape Up: Stop Running in Circles and Ship Work that Matters"*](https://www.amazon.com/Shape-Up-Circles-Ship-Work/dp/B09ZSY1MWP) by Ryan Singer
-- [*"It Doesn't Have to Be Crazy at Work"*](https://www.amazon.com/Doesnt-Have-Crazy-Work/dp/0062874780) by Jason Fried & David Heinemeier Hansson
-- [*"Remote: Office Not Required"*](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501) by Jason Fried & David Heinemeier Hansson
+- [*"Getting Real"*](https://www.amazon.com/Getting-Real-Smarter-Successful-Application/dp/0578012812?tag=rewired02-20) by Jason Fried & David Heinemeier Hansson
+- [*"Rework"*](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745?tag=rewired02-20) by Jason Fried & David Heinemeier Hansson
+- [*"Shape Up: Stop Running in Circles and Ship Work that Matters"*](https://www.amazon.com/Shape-Up-Circles-Ship-Work/dp/B09ZSY1MWP?tag=rewired02-20) by Ryan Singer
+- [*"It Doesn't Have to Be Crazy at Work"*](https://www.amazon.com/Doesnt-Have-Crazy-Work/dp/0062874780?tag=rewired02-20) by Jason Fried & David Heinemeier Hansson
+- [*"Remote: Office Not Required"*](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501?tag=rewired02-20) by Jason Fried & David Heinemeier Hansson
 
 ## About the Authors
 

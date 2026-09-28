@@ -179,9 +179,9 @@ See references/case-studies.md when you want a full worked walkthrough — three
 
 ## Further Reading
 
-- [*"Lean Analytics: Use Data to Build a Better Startup Faster"*](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675) by Alistair Croll & Benjamin Yoskovitz
-- [*"The Lean Startup"*](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) by Eric Ries
-- [*"Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing"*](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264) by Ron Kohavi, Diane Tang & Ya Xu
+- [*"Lean Analytics: Use Data to Build a Better Startup Faster"*](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675?tag=rewired02-20) by Alistair Croll & Benjamin Yoskovitz
+- [*"The Lean Startup"*](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898?tag=rewired02-20) by Eric Ries
+- [*"Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing"*](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264?tag=rewired02-20) by Ron Kohavi, Diane Tang & Ya Xu
 
 ## About the Authors
 

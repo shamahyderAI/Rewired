@@ -204,8 +204,8 @@ Audit any B2B sales process:
 
 For the complete system:
 
-- [*"Predictable Revenue"*](https://www.amazon.com/Predictable-Revenue-Business-Practices-Salesforce-com/dp/0984380213) by Aaron Ross & Marylou Tyler
-- [*"From Impossible to Inevitable"*](https://www.amazon.com/Impossible-Inevitable-Hyper-Growth-Companies-Predictable/dp/1119166713) by Aaron Ross & Jason Lemkin (scaling to $100M+ ARR)
+- [*"Predictable Revenue"*](https://www.amazon.com/Predictable-Revenue-Business-Practices-Salesforce-com/dp/0984380213?tag=rewired02-20) by Aaron Ross & Marylou Tyler
+- [*"From Impossible to Inevitable"*](https://www.amazon.com/Impossible-Inevitable-Hyper-Growth-Companies-Predictable/dp/1119166713?tag=rewired02-20) by Aaron Ross & Jason Lemkin (scaling to $100M+ ARR)
 
 ## About the Author
 

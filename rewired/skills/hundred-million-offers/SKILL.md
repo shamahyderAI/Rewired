@@ -303,8 +303,8 @@ Use this table to audit any existing offer:
 
 Based on Alex Hormozi's offer creation framework:
 
-- [*"$100M Offers: How to Make Offers So Good People Feel Stupid Saying No"*](https://www.amazon.com/100M-Offers-People-Stupid-Saying/dp/1737475731) by Alex Hormozi
-- [*"$100M Leads: How to Get Strangers to Want to Buy Your Stuff"*](https://www.amazon.com/100M-Leads-Strangers-Want-Stuff/dp/1737475774) by Alex Hormozi
+- [*"$100M Offers: How to Make Offers So Good People Feel Stupid Saying No"*](https://www.amazon.com/100M-Offers-People-Stupid-Saying/dp/1737475731?tag=rewired02-20) by Alex Hormozi
+- [*"$100M Leads: How to Get Strangers to Want to Buy Your Stuff"*](https://www.amazon.com/100M-Leads-Strangers-Want-Stuff/dp/1737475774?tag=rewired02-20) by Alex Hormozi
 
 ## About the Author
 

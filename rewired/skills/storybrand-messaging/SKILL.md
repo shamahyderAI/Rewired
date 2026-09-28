@@ -254,7 +254,7 @@ See: [references/multi-channel-consistency.md](references/multi-channel-consiste
 
 For the complete methodology and worksheets:
 
-- [*"Building a StoryBrand: Clarify Your Message So Customers Will Listen"*](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718033329) by Donald Miller
+- [*"Building a StoryBrand: Clarify Your Message So Customers Will Listen"*](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718033329?tag=rewired02-20) by Donald Miller
 
 ## About the Author
 

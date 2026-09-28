@@ -337,8 +337,8 @@ The direct-response doctrine that underpins all nine squares -- every campaign s
 
 ## Further Reading
 
-- [The 1-Page Marketing Plan](https://www.amazon.com/1-Page-Marketing-Plan-Customers-Money/dp/1989025013) by Allan Dib
-- [Lean Marketing](https://www.amazon.com/Lean-Marketing-More-Leads-Customers/dp/1989025048) by Allan Dib
+- [The 1-Page Marketing Plan](https://www.amazon.com/1-Page-Marketing-Plan-Customers-Money/dp/1989025013?tag=rewired02-20) by Allan Dib
+- [Lean Marketing](https://www.amazon.com/Lean-Marketing-More-Leads-Customers/dp/1989025048?tag=rewired02-20) by Allan Dib
 
 ## About the Author
 

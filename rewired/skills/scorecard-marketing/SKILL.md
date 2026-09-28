@@ -208,7 +208,7 @@ See [references/analytics-optimization.md](references/analytics-optimization.md)
 
 For the complete system, additional examples, and advanced strategies:
 
-- [*"Scorecard Marketing: The four-step playbook for getting better leads and bigger profits"*](https://www.amazon.com/Scorecard-Marketing-four-step-playbook-getting/dp/1781337195) by Daniel Priestley and Glen Carlson
+- [*"Scorecard Marketing: The four-step playbook for getting better leads and bigger profits"*](https://www.amazon.com/Scorecard-Marketing-four-step-playbook-getting/dp/1781337195?tag=rewired02-20) by Daniel Priestley and Glen Carlson
 
 ## About the Author
 

@@ -222,7 +222,7 @@ Audit any landing page or conversion flow:
 
 For the complete CRE Methodology(TM), detailed case studies, and advanced techniques:
 
-- [*"Making Websites Win: Apply the Customer-Centric Methodology That Has Doubled the Sales of Many Leading Websites"*](https://www.amazon.com/Making-Websites-Win-Customer-Centric-Methodology/dp/1544500513) by Dr. Karl Blanks and Ben Jesson
+- [*"Making Websites Win: Apply the Customer-Centric Methodology That Has Doubled the Sales of Many Leading Websites"*](https://www.amazon.com/Making-Websites-Win-Customer-Centric-Methodology/dp/1544500513?tag=rewired02-20) by Dr. Karl Blanks and Ben Jesson
 
 ## About the Author
 

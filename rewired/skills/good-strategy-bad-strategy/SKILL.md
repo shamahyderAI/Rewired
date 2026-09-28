@@ -185,10 +185,10 @@ See [references/case-studies.md](references/case-studies.md) for fully worked en
 
 ## Further Reading
 
-- [*"Good Strategy Bad Strategy: The Difference and Why It Matters"*](https://www.amazon.com/Good-Strategy-Bad-Strategy-Difference/dp/0307886239) by Richard Rumelt
-- [*"The Crux: How Leaders Become Strategists"*](https://www.amazon.com/Crux-How-Leaders-Become-Strategists/dp/1541701240) by Richard Rumelt
-- [*"Playing to Win: How Strategy Really Works"*](https://www.amazon.com/Playing-Win-Strategy-Really-Works/dp/142218739X) by A.G. Lafley & Roger L. Martin
-- [*"7 Powers: The Foundations of Business Strategy"*](https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319) by Hamilton Helmer
+- [*"Good Strategy Bad Strategy: The Difference and Why It Matters"*](https://www.amazon.com/Good-Strategy-Bad-Strategy-Difference/dp/0307886239?tag=rewired02-20) by Richard Rumelt
+- [*"The Crux: How Leaders Become Strategists"*](https://www.amazon.com/Crux-How-Leaders-Become-Strategists/dp/1541701240?tag=rewired02-20) by Richard Rumelt
+- [*"Playing to Win: How Strategy Really Works"*](https://www.amazon.com/Playing-Win-Strategy-Really-Works/dp/142218739X?tag=rewired02-20) by A.G. Lafley & Roger L. Martin
+- [*"7 Powers: The Foundations of Business Strategy"*](https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319?tag=rewired02-20) by Hamilton Helmer
 
 ## About the Author
 

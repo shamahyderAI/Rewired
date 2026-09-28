@@ -251,9 +251,9 @@ For rock-specific mistakes (too many, too vague, business-as-usual, mid-quarter 
 
 For the complete system:
 
-- [*"Traction: Get a Grip on Your Business"*](https://www.amazon.com/Traction-Get-Grip-Your-Business/dp/1936661837) by Gino Wickman
-- [*"Get a Grip"*](https://www.amazon.com/Get-Grip-Entrepreneurial-Fable-Business/dp/1939529824) by Gino Wickman & Mike Paton (EOS as a business fable)
-- [*"Rocket Fuel"*](https://www.amazon.com/Rocket-Fuel-Essential-Combination-Business/dp/1941631150) by Gino Wickman & Mark C. Winters (Visionary + Integrator relationship)
+- [*"Traction: Get a Grip on Your Business"*](https://www.amazon.com/Traction-Get-Grip-Your-Business/dp/1936661837?tag=rewired02-20) by Gino Wickman
+- [*"Get a Grip"*](https://www.amazon.com/Get-Grip-Entrepreneurial-Fable-Business/dp/1939529824?tag=rewired02-20) by Gino Wickman & Mike Paton (EOS as a business fable)
+- [*"Rocket Fuel"*](https://www.amazon.com/Rocket-Fuel-Essential-Combination-Business/dp/1941631150?tag=rewired02-20) by Gino Wickman & Mark C. Winters (Visionary + Integrator relationship)
 
 ## About the Author
 

@@ -200,8 +200,8 @@ See [references/case-studies.md](references/case-studies.md) when you want a wor
 
 For the complete methodology, case studies, and deeper insights:
 
-- [*"Inspired: How to Create Tech Products Customers Love"*](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) by Marty Cagan
-- [*"Empowered: Ordinary People, Extraordinary Products"*](https://www.amazon.com/EMPOWERED-Ordinary-People-Extraordinary-Products/dp/111969129X) by Marty Cagan and Chris Jones
+- [*"Inspired: How to Create Tech Products Customers Love"*](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507?tag=rewired02-20) by Marty Cagan
+- [*"Empowered: Ordinary People, Extraordinary Products"*](https://www.amazon.com/EMPOWERED-Ordinary-People-Extraordinary-Products/dp/111969129X?tag=rewired02-20) by Marty Cagan and Chris Jones
 
 ## About the Author
 

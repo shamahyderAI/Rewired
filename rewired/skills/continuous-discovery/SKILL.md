@@ -197,7 +197,7 @@ See [references/case-studies.md](references/case-studies.md) when adapting the h
 
 Based on the continuous discovery framework developed by Teresa Torres:
 
-- [*"Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value"*](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309) by Teresa Torres
+- [*"Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value"*](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309?tag=rewired02-20) by Teresa Torres
 
 ## About the Author
 

@@ -207,8 +207,8 @@ Audit any tech go-to-market, and re-run it as the completion gate before declari
 
 For the complete methodology:
 
-- [*"Crossing the Chasm"*](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986) by Geoffrey A. Moore (3rd Edition)
-- [*"Inside the Tornado"*](https://www.amazon.com/Inside-Tornado-Strategies-Developing-Hypergrowth/dp/0887307760) by Geoffrey A. Moore (sequel: managing hypergrowth)
+- [*"Crossing the Chasm"*](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986?tag=rewired02-20) by Geoffrey A. Moore (3rd Edition)
+- [*"Inside the Tornado"*](https://www.amazon.com/Inside-Tornado-Strategies-Developing-Hypergrowth/dp/0887307760?tag=rewired02-20) by Geoffrey A. Moore (sequel: managing hypergrowth)
 
 ## About the Author
 

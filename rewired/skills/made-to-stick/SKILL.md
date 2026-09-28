@@ -242,8 +242,8 @@ Sum the six scores and band per [Scoring](#scoring) above.
 
 For the complete framework and research:
 
-- [*"Made to Stick"*](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287) by Chip Heath & Dan Heath
-- [*"Switch"*](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) by Chip Heath & Dan Heath (companion: how to make change stick)
+- [*"Made to Stick"*](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287?tag=rewired02-20) by Chip Heath & Dan Heath
+- [*"Switch"*](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752?tag=rewired02-20) by Chip Heath & Dan Heath (companion: how to make change stick)
 
 ## About the Authors
 

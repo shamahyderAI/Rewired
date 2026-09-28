@@ -228,7 +228,7 @@ See: [references/case-studies.md](references/case-studies.md) when you want to s
 
 This skill is based on Rob Fitzpatrick's Mom Test methodology:
 
-- [*"The Mom Test: How to Talk to Customers & Learn if Your Business is a Good Idea When Everyone is Lying to You"*](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742) by Rob Fitzpatrick
+- [*"The Mom Test: How to Talk to Customers & Learn if Your Business is a Good Idea When Everyone is Lying to You"*](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742?tag=rewired02-20) by Rob Fitzpatrick
 
 ## About the Author
 

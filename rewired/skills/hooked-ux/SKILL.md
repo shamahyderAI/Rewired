@@ -234,8 +234,8 @@ Audit any product feature:
 
 Based on the Hook Model developed by Nir Eyal:
 
-- [*"Hooked: How to Build Habit-Forming Products"*](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788) by Nir Eyal
-- [*"Indistractable: How to Control Your Attention and Choose Your Life"*](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/194883653X) by Nir Eyal (companion: resisting unwanted habits and building focus)
+- [*"Hooked: How to Build Habit-Forming Products"*](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788?tag=rewired02-20) by Nir Eyal
+- [*"Indistractable: How to Control Your Attention and Choose Your Life"*](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/194883653X?tag=rewired02-20) by Nir Eyal (companion: resisting unwanted habits and building focus)
 
 ## About the Author
 

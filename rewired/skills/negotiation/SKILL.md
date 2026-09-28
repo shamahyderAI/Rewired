@@ -288,8 +288,8 @@ See techniques.md sections 4 and 19 when you need the full Late-Night DJ Voice m
 
 Based on Chris Voss's experience as an FBI hostage negotiator:
 
-- [*"Never Split the Difference: Negotiating As If Your Life Depended On It"*](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805) by Chris Voss with Tahl Raz
-- [*"The Full Fee Agent: How to Stack the Odds in Your Favor as a Real Estate Professional"*](https://www.amazon.com/Full-Fee-Agent-Stack-Professional/dp/1544534655) by Chris Voss and Steve Shull (the same principles applied to real estate and professional services)
+- [*"Never Split the Difference: Negotiating As If Your Life Depended On It"*](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805?tag=rewired02-20) by Chris Voss with Tahl Raz
+- [*"The Full Fee Agent: How to Stack the Odds in Your Favor as a Real Estate Professional"*](https://www.amazon.com/Full-Fee-Agent-Stack-Professional/dp/1544534655?tag=rewired02-20) by Chris Voss and Steve Shull (the same principles applied to real estate and professional services)
 
 ## About the Author
 

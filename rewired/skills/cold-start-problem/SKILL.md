@@ -181,9 +181,9 @@ See [references/scale-ceiling-moat.md](references/scale-ceiling-moat.md) when gr
 
 ## Further Reading
 
-- [*"The Cold Start Problem: How to Start and Scale Network Effects"*](https://www.amazon.com/Cold-Start-Problem-Andrew-Chen/dp/0062969749) by Andrew Chen
-- [*"Platform Revolution"*](https://www.amazon.com/Platform-Revolution-Networked-Markets-Transforming/dp/0393249131) by Geoffrey Parker, Marshall Van Alstyne & Sangeet Paul Choudary
-- [*"Blitzscaling"*](https://www.amazon.com/Blitzscaling-Lightning-Fast-Building-Massively-Companies/dp/1524761419) by Reid Hoffman & Chris Yeh
+- [*"The Cold Start Problem: How to Start and Scale Network Effects"*](https://www.amazon.com/Cold-Start-Problem-Andrew-Chen/dp/0062969749?tag=rewired02-20) by Andrew Chen
+- [*"Platform Revolution"*](https://www.amazon.com/Platform-Revolution-Networked-Markets-Transforming/dp/0393249131?tag=rewired02-20) by Geoffrey Parker, Marshall Van Alstyne & Sangeet Paul Choudary
+- [*"Blitzscaling"*](https://www.amazon.com/Blitzscaling-Lightning-Fast-Building-Massively-Companies/dp/1524761419?tag=rewired02-20) by Reid Hoffman & Chris Yeh
 
 ## About the Author
 

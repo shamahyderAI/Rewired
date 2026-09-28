@@ -225,7 +225,7 @@ When the inline Quick Diagnostic above is not enough -- you are diagnosing a *sy
 
 For the complete methodology, case studies, and deeper insights:
 
-- [*"Competing Against Luck: The Story of Innovation and Customer Choice"*](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612) by Clayton M. Christensen, Taddy Hall, Karen Dillon, and David S. Duncan
+- [*"Competing Against Luck: The Story of Innovation and Customer Choice"*](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612?tag=rewired02-20) by Clayton M. Christensen, Taddy Hall, Karen Dillon, and David S. Duncan
 
 ## About the Author
 

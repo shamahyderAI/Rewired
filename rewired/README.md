@@ -2,6 +2,23 @@
 
 Everything a Rewired member needs on day one. One install, 37 skills, all vetted.
 
+## Where the plugin works
+
+Rewired skills run in **Cowork** and **Claude Code**. Claude Chat does not read
+plugins. If Claude tells you it cannot bring the plugin into Chat, nothing is
+broken. Open Cowork and use it there.
+
+## Already built a similar skill?
+
+Keep it. If you already made your own board of advisors, briefing, or another
+skill in class, Claude can merge the Rewired plugin's improvements into your
+version instead of installing a duplicate. Ask it to check your existing skills
+before it adds anything new.
+
+Use this installation prompt in Cowork:
+
+> In Cowork, install the Rewired plugin from https://github.com/shamahyderAI/Rewired and walk me through anything I need to click. Before adding any skill, check whether I already have a skill that serves the same purpose. If I do, offer to merge the Rewired improvements into my version instead of installing a duplicate.
+
 ## Your daily operating system
 
 - **morning-brief** — Say "run my morning brief" and get a calm, hand-drawn view of your day: your calendar as terrain, what needs you, what's already sorted. Connect your calendar, email, and chat, then ask Claude to set it up as a recurring weekday task so it's waiting with your coffee.

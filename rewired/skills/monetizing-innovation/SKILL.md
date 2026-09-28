@@ -215,8 +215,8 @@ See [references/case-studies.md](references/case-studies.md) to watch the whole 
 
 ## Further Reading
 
-- [*"Monetizing Innovation: How Smart Companies Design the Product Around the Price"*](https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867) by Madhavan Ramanujam & Georg Tacke
-- [*"Confessions of the Pricing Man: How Price Affects Everything"*](https://www.amazon.com/Confessions-Pricing-Man-Affects-Everything/dp/3319203991) by Hermann Simon
+- [*"Monetizing Innovation: How Smart Companies Design the Product Around the Price"*](https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867?tag=rewired02-20) by Madhavan Ramanujam & Georg Tacke
+- [*"Confessions of the Pricing Man: How Price Affects Everything"*](https://www.amazon.com/Confessions-Pricing-Man-Affects-Everything/dp/3319203991?tag=rewired02-20) by Hermann Simon
 
 ## About the Authors
 

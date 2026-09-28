@@ -194,8 +194,8 @@ Audit any motivation system:
 
 Based on Daniel Pink's research on motivation science:
 
-- [*"Drive: The Surprising Truth About What Motivates Us"*](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) by Daniel H. Pink
-- [*"To Sell Is Human"*](https://www.amazon.com/Sell-Human-Surprising-Moving-Others/dp/1594631905) by Daniel H. Pink (applying motivation to sales and persuasion)
+- [*"Drive: The Surprising Truth About What Motivates Us"*](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805?tag=rewired02-20) by Daniel H. Pink
+- [*"To Sell Is Human"*](https://www.amazon.com/Sell-Human-Surprising-Moving-Others/dp/1594631905?tag=rewired02-20) by Daniel H. Pink (applying motivation to sales and persuasion)
 
 ## About the Author
 
