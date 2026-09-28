@@ -1,6 +1,6 @@
 ---
 name: contagious
-description: 'Engineer word-of-mouth and virality using the STEPPS framework (Social Currency, Triggers, Emotion, Public, Practical Value, Stories). Use when the user mentions "go viral", "word of mouth", "shareable content", "social currency", "why people share", "referral program", "nobody is sharing it", or "make this spread". Also trigger when designing shareable features, crafting social campaigns, or building products that spread through peer recommendation. Covers environmental triggers and high-arousal emotional content. For sticky messaging, see made-to-stick. For persuasion tactics, see influence-psychology.'
+description: "Engineer word-of-mouth and virality using the STEPPS framework (Social Currency, Triggers, Emotion, Public, Practical Value, Stories). Use when the user mentions \"go viral\", \"word of mouth\", \"shareable content\", \"social currency\", \"why people share\", \"referral program\", \"nobody is sharing it\", or \"make this spread\". Also trigger when designing shareable features, crafting social campaigns, or building products that spread through peer recommendation. Covers environmental triggers and high-arousal emotional content. For sticky messaging, see made-to-stick. For persuasion tactics, see influence-psychology."
 license: MIT
 metadata:
   author: wondelai
@@ -18,6 +18,8 @@ A framework for engineering word-of-mouth and making products, ideas, and conten
 See: [references/word-of-mouth.md](references/word-of-mouth.md) when the brief over-indexes on social media — it makes the offline-vs-online case, lists conversation triggers, and gives a WOM measurement/audit method.
 
 ## Scoring
+
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
 
 **Goal: 10/10.** Score each of the six STEPPS drivers (the six Quick Diagnostic rows) — **0** absent, **1** present but weak, **2** strong and deliberate — for a raw 0-12, then map: 11-12 -> 10, 9-10 -> 8-9, 6-8 -> 6-7, 3-5 -> 4-5, 0-2 -> <=3. Bands:
 - **9-10** — three or more drivers at strength 2, at least one of them Public or Social Currency (the self-propagating ones), and the brand survives the Trojan Horse test.
@@ -271,8 +273,8 @@ See: [references/viral-content-patterns.md](references/viral-content-patterns.md
 
 ## Further Reading
 
-- [Contagious: Why Things Catch On](https://www.amazon.com/Contagious-Things-Catch-Jonah-Berger/dp/1451686579?tag=wondelai00-20) by Jonah Berger
-- [The Catalyst: How to Change Anyone's Mind](https://www.amazon.com/Catalyst-How-Change-Anyones-Mind/dp/1982108606?tag=wondelai00-20) by Jonah Berger
+- [Contagious: Why Things Catch On](https://www.amazon.com/Contagious-Things-Catch-Jonah-Berger/dp/1451686579) by Jonah Berger
+- [The Catalyst: How to Change Anyone's Mind](https://www.amazon.com/Catalyst-How-Change-Anyones-Mind/dp/1982108606) by Jonah Berger
 
 ## About the Author
 

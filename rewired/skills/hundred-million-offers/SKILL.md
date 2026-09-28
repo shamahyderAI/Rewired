@@ -1,6 +1,6 @@
 ---
 name: hundred-million-offers
-description: 'Create irresistible offers using the Value Equation, bonus stacking, risk-reversing guarantees, and ethical scarcity. Use when the user mentions "grand slam offer", "make my offer more compelling", "what bonuses should I add", "guarantee strategy", "offer naming", or "people say its too expensive". Also trigger when packaging a product for higher perceived value, justifying premium pricing instead of discounting, designing a money-back guarantee, or structuring tiers to maximize conversions. Covers the MAGIC naming formula and starving-crowd targeting. For product positioning, see obviously-awesome. For outbound sales, see predictable-revenue.'
+description: "Create irresistible offers using the Value Equation, bonus stacking, risk-reversing guarantees, and ethical scarcity. Use when the user mentions \"grand slam offer\", \"make my offer more compelling\", \"what bonuses should I add\", \"guarantee strategy\", \"offer naming\", or \"people say its too expensive\". Also trigger when packaging a product for higher perceived value, justifying premium pricing instead of discounting, designing a money-back guarantee, or structuring tiers to maximize conversions. Covers the MAGIC naming formula and starving-crowd targeting. For product positioning, see obviously-awesome. For outbound sales, see predictable-revenue."
 license: MIT
 metadata:
   author: wondelai
@@ -17,7 +17,9 @@ Framework for creating offers so good people feel stupid saying no. What you sel
 
 ## Scoring
 
-**Goal: 10/10.** Score any offer by the 7-row Quick Diagnostic at the end of this file — award ~1.4 points per row answered "yes," rounding to a 0-10 scale. Bands: **9-10** = all/nearly all rows pass (irresistible: 10x perceived value, reversed risk, ethical scarcity, named dollar-valued bonuses, a category-of-one bundle, a MAGIC name); **5-6** = value and market are right but risk, bonuses, or scarcity are missing; **<=3** = a commodity priced on cost with no guarantee or reason to act now. Always report the current score and the specific diagnostic rows that must flip to "yes" to reach 10/10.
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
+
+**Goal: 10/10.** Score any offer by the 7-row Quick Diagnostic at the end of this file — award ~1.4 points per row answered "yes," rounding to a 0-10 scale. Bands: **9-10** = all/nearly all rows pass (irresistible: 10x perceived value, reversed risk, ethical scarcity, named dollar-valued bonuses, a category-of-one bundle, a MAGIC name); **5-6** = value and market are right but risk, bonuses, or scarcity are missing; **<=3** = a commodity priced on cost with no guarantee or reason to act now. When you score, report the current score and the specific diagnostic rows that must flip to "yes" to reach 10/10.
 
 ## The Grand Slam Offer Framework
 
@@ -301,8 +303,8 @@ Use this table to audit any existing offer:
 
 Based on Alex Hormozi's offer creation framework:
 
-- [*"$100M Offers: How to Make Offers So Good People Feel Stupid Saying No"*](https://www.amazon.com/100M-Offers-People-Stupid-Saying/dp/1737475731?tag=wondelai00-20) by Alex Hormozi
-- [*"$100M Leads: How to Get Strangers to Want to Buy Your Stuff"*](https://www.amazon.com/100M-Leads-Strangers-Want-Stuff/dp/1737475774?tag=wondelai00-20) by Alex Hormozi
+- [*"$100M Offers: How to Make Offers So Good People Feel Stupid Saying No"*](https://www.amazon.com/100M-Offers-People-Stupid-Saying/dp/1737475731) by Alex Hormozi
+- [*"$100M Leads: How to Get Strangers to Want to Buy Your Stuff"*](https://www.amazon.com/100M-Leads-Strangers-Want-Stuff/dp/1737475774) by Alex Hormozi
 
 ## About the Author
 

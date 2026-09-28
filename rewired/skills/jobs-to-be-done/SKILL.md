@@ -1,6 +1,6 @@
 ---
 name: jobs-to-be-done
-description: 'Discover what customers truly need by analyzing the "job" they hire your product to do. Use when the user mentions "customer discovery", "why customers churn", "what job does this solve", "competing against luck", "product-market fit", "switching behavior", "milkshake moment", or "functional vs emotional jobs". Also trigger when investigating why users choose competitors, designing features around real customer needs, or reframing a value proposition. Covers JTBD interviews, competition analysis, and jobs-oriented roadmaps. For product positioning, see obviously-awesome. For rapid validation, see design-sprint. For non-leading interview technique, see mom-test.'
+description: "Discover what customers truly need by analyzing the \"job\" they hire your product to do. Use when the user mentions \"customer discovery\", \"why customers churn\", \"what job does this solve\", \"competing against luck\", \"product-market fit\", \"switching behavior\", \"milkshake moment\", or \"functional vs emotional jobs\". Also trigger when investigating why users choose competitors, designing features around real customer needs, or reframing a value proposition. Covers JTBD interviews, competition analysis, and jobs-oriented roadmaps. For product positioning, see obviously-awesome. For rapid validation, see design-sprint. For non-leading interview technique, see mom-test."
 license: MIT
 metadata:
   author: wondelai
@@ -22,7 +22,9 @@ Key elements of the definition:
 
 ## Scoring
 
-**Goal: 10/10.** Score 1 point per satisfied row in the Quick Diagnostic (7 rows) plus up to 3 points for depth: +1 if all three job dimensions are evidenced, +1 if the job statement avoids any product/solution name, +1 if competition includes non-consumption. Bands: **9-10** = job stated without the product, all four forces mapped, three dimensions evidenced, non-obvious competition and Little Hire tracked; **5-6** = job named but one or two diagnostic rows fail (usually missing forces or emotional/social dimensions); **<=3** = product-first framing, demographic segmentation, or Pull-only thinking. Always state the current score and the specific diagnostic rows to fix.
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
+
+**Goal: 10/10.** Score 1 point per satisfied row in the Quick Diagnostic (7 rows) plus up to 3 points for depth: +1 if all three job dimensions are evidenced, +1 if the job statement avoids any product/solution name, +1 if competition includes non-consumption. Bands: **9-10** = job stated without the product, all four forces mapped, three dimensions evidenced, non-obvious competition and Little Hire tracked; **5-6** = job named but one or two diagnostic rows fail (usually missing forces or emotional/social dimensions); **<=3** = product-first framing, demographic segmentation, or Pull-only thinking. When you score, state the current score and the specific diagnostic rows to fix.
 
 ## Three Dimensions of Every Job
 
@@ -223,7 +225,7 @@ When the inline Quick Diagnostic above is not enough -- you are diagnosing a *sy
 
 For the complete methodology, case studies, and deeper insights:
 
-- [*"Competing Against Luck: The Story of Innovation and Customer Choice"*](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612?tag=wondelai00-20) by Clayton M. Christensen, Taddy Hall, Karen Dillon, and David S. Duncan
+- [*"Competing Against Luck: The Story of Innovation and Customer Choice"*](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612) by Clayton M. Christensen, Taddy Hall, Karen Dillon, and David S. Duncan
 
 ## About the Author
 

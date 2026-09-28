@@ -84,13 +84,15 @@ Distilled from Wikipedia's "Signs of AI writing" field guide. These words and co
 - "refers to" (in a lead/definition) → is
 - "began his career as" → was (when that's what's meant)
 
-**Fake-secret framing (cut the whole line; state the point directly):**
+**Fake-secret and setup framing (cut the whole line; state the point directly):**
 - "Here is the part almost nobody discusses"
 - "What nobody's talking about is..."
 - "Nobody talks about this, but..."
 - "The part everyone misses"
 - "What no one tells you about..."
 - "...that no one is talking about"
+- "Here's the thing," "Here's what most people get wrong," "Here's why that matters," "Here's the kicker," and the rest of the "here's what / here's the thing" setup family
+
 These manufacture insiderness instead of earning it. If the point is genuinely under-discussed, the content will make that obvious; announcing it is the tell.
 
 **Superficial analysis (cut the trailing clause):**

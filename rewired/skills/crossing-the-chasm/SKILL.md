@@ -1,6 +1,6 @@
 ---
 name: crossing-the-chasm
-description: 'Navigate the technology adoption lifecycle from early adopters to mainstream market. Use when the user mentions "crossing the chasm", "beachhead segment", "whole product", "early adopters vs mainstream", "tech go-to-market", "bowling pin strategy", "technology adoption lifecycle", "pragmatist buyers", "growth stalled after early adopters", or "our go-to-market plan". Also trigger when planning go-to-market for a technical product. Covers the D-Day analogy, bowling-pin strategy, the tornado, and positioning against incumbents. For product positioning, see obviously-awesome. For new market creation, see blue-ocean-strategy.'
+description: "Navigate the technology adoption lifecycle from early adopters to mainstream market. Use when the user mentions \"crossing the chasm\", \"beachhead segment\", \"whole product\", \"early adopters vs mainstream\", \"tech go-to-market\", \"bowling pin strategy\", \"technology adoption lifecycle\", \"pragmatist buyers\", \"growth stalled after early adopters\", or \"our go-to-market plan\". Also trigger when planning go-to-market for a technical product. Covers the D-Day analogy, bowling-pin strategy, the tornado, and positioning against incumbents. For product positioning, see obviously-awesome. For new market creation, see blue-ocean-strategy."
 license: MIT
 metadata:
   author: wondelai
@@ -18,6 +18,8 @@ Strategic framework for marketing and selling disruptive technology products, pa
 If the product is modern PLG/freemium B2B SaaS, read [references/b2b-saas.md](references/b2b-saas.md) first -- it remaps every step below (the chasm, beachhead, whole product, metrics) for self-serve trials, free tiers, and the false-signal trap where 1,000 free users looks like a crossing but isn't.
 
 ## Scoring
+
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
 
 **Goal: 10/10.** Score any tech go-to-market by the Quick Diagnostic at the end: count the rows answered "yes" and map the 7 rows onto a 0-10 scale (roughly 1.4 points per satisfied row).
 
@@ -205,8 +207,8 @@ Audit any tech go-to-market, and re-run it as the completion gate before declari
 
 For the complete methodology:
 
-- [*"Crossing the Chasm"*](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986?tag=wondelai00-20) by Geoffrey A. Moore (3rd Edition)
-- [*"Inside the Tornado"*](https://www.amazon.com/Inside-Tornado-Strategies-Developing-Hypergrowth/dp/0887307760?tag=wondelai00-20) by Geoffrey A. Moore (sequel: managing hypergrowth)
+- [*"Crossing the Chasm"*](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986) by Geoffrey A. Moore (3rd Edition)
+- [*"Inside the Tornado"*](https://www.amazon.com/Inside-Tornado-Strategies-Developing-Hypergrowth/dp/0887307760) by Geoffrey A. Moore (sequel: managing hypergrowth)
 
 ## About the Author
 

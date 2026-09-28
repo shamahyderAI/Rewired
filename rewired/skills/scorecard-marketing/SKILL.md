@@ -1,6 +1,6 @@
 ---
 name: scorecard-marketing
-description: 'Build quiz and assessment funnels that generate qualified leads at 30-50% conversion. Use when the user mentions "quiz funnel", "scorecard", "lead magnet", "score-based segmentation", or "lead qualification". Also trigger when designing self-assessment tools, building calculators or graders for marketing, or creating personalized result pages that drive conversions. Covers concept hooks, question design, dynamic results by tier, and automated follow-up sequences. For landing page conversion, see cro-methodology. For full marketing plans, see one-page-marketing.'
+description: "Build quiz and assessment funnels that convert and qualify leads far better than static lead magnets. Use when the user mentions \"quiz funnel\", \"scorecard\", \"lead magnet\", \"score-based segmentation\", or \"lead qualification\". Also trigger when designing self-assessment tools, building calculators or graders for marketing, or creating personalized result pages that drive conversions. Covers concept hooks, question design, dynamic results by tier, and automated follow-up sequences. For landing page conversion, see cro-methodology. For full marketing plans, see one-page-marketing."
 license: MIT
 metadata:
   author: wondelai
@@ -19,7 +19,9 @@ A proven 4-step system for generating qualified leads through interactive assess
 
 ## Scoring
 
-**Goal: 10/10.** Score a funnel against the six [Quick Diagnostic](#quick-diagnostic) rows: `score = round(satisfied_rows / 6 × 10)`. Read the bands as: **9-10** = all six pass (dormant-desire hook, email captured first, scored categories, unique per-tier content and CTA, tier-segmented follow-up); **5-7** = the funnel exists but generic results or late email capture cost it 2-3 rows; **≤3** = no concept hook or no scoring. Always give the current score and the specific rows to close to reach 10/10.
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
+
+**Goal: 10/10.** Score a funnel against the six [Quick Diagnostic](#quick-diagnostic) rows: `score = round(satisfied_rows / 6 × 10)`. Read the bands as: **9-10** = all six pass (dormant-desire hook, email captured first, scored categories, unique per-tier content and CTA, tier-segmented follow-up); **5-7** = the funnel exists but generic results or late email capture cost it 2-3 rows; **≤3** = no concept hook or no scoring. When you score, give the current score and the specific rows to close to reach 10/10.
 
 ## The 4-Step Scorecard System
 
@@ -154,7 +156,7 @@ See [references/analytics-optimization.md](references/analytics-optimization.md)
 ## Conversion Benchmarks
 
 - Traditional PDF lead magnets: 3-10% conversion
-- Scorecard/quiz funnels: 30-50% conversion
+- Scorecard/quiz funnels: often cited at 30-50% start-to-lead conversion (a vendor-reported figure; measure your own)
 - Top performers: 70%+ with optimized landing pages
 
 ## Psychology Behind Why This Works
@@ -206,7 +208,7 @@ See [references/analytics-optimization.md](references/analytics-optimization.md)
 
 For the complete system, additional examples, and advanced strategies:
 
-- [*"Scorecard Marketing: The four-step playbook for getting better leads and bigger profits"*](https://www.amazon.com/Scorecard-Marketing-four-step-playbook-getting/dp/1781337195?tag=wondelai00-20) by Daniel Priestley and Glen Carlson
+- [*"Scorecard Marketing: The four-step playbook for getting better leads and bigger profits"*](https://www.amazon.com/Scorecard-Marketing-four-step-playbook-getting/dp/1781337195) by Daniel Priestley and Glen Carlson
 
 ## About the Author
 

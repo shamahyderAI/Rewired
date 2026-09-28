@@ -1,6 +1,6 @@
 ---
 name: mom-test
-description: 'Talk to customers without leading them using Mom Test rules: discuss their life not your idea, ask about specifics in the past, and talk less. Use when the user mentions "customer interviews", "validate my idea", "users say they want it but dont buy", "leading questions", "The Mom Test", "customer feedback bias", or "interview script". Also trigger when preparing user-research questions, interpreting ambiguous feedback, or designing customer-discovery that avoids false positives. Covers commitment and advancement, avoiding compliments, and extracting signal from noise. For product-market fit, see jobs-to-be-done. For rapid prototype testing, see design-sprint.'
+description: "Talk to customers without leading them using Mom Test rules: discuss their life not your idea, ask about specifics in the past, and talk less. Use when the user mentions \"customer interviews\", \"validate my idea\", \"users say they want it but dont buy\", \"leading questions\", \"The Mom Test\", \"customer feedback bias\", or \"interview script\". Also trigger when preparing user-research questions, interpreting ambiguous feedback, or designing customer-discovery that avoids false positives. Covers commitment and advancement, avoiding compliments, and extracting signal from noise. For product-market fit, see jobs-to-be-done. For rapid prototype testing, see design-sprint."
 license: MIT
 metadata:
   author: wondelai
@@ -17,12 +17,14 @@ Framework for customer conversations that won't lead you astray, based on a fund
 
 ## Scoring
 
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
+
 **Goal: 7/7.** Score a conversation (or interview plan) by the seven-row Quick Diagnostic below: **1 point per row that passes.**
 - **6-7** = focused on their life and past behavior, concrete facts captured, a real commitment (time/reputation/money) secured, they talked 80%+, and beliefs got updated.
 - **4-5** = some past-behavior facts but leaking into hypotheticals, compliments accepted as signal, or ending without an ask.
 - **<=3** = a pitch in disguise: leading questions, opinions and fluff, a polite zombie lead, no learning.
 
-Always state the current score out of 7, name the failing diagnostic rows, and give the specific fix for each.
+When you score, state the current score out of 7, name the failing diagnostic rows, and give the specific fix for each.
 
 ## Framework Sections
 
@@ -226,7 +228,7 @@ See: [references/case-studies.md](references/case-studies.md) when you want to s
 
 This skill is based on Rob Fitzpatrick's Mom Test methodology:
 
-- [*"The Mom Test: How to Talk to Customers & Learn if Your Business is a Good Idea When Everyone is Lying to You"*](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742?tag=wondelai00-20) by Rob Fitzpatrick
+- [*"The Mom Test: How to Talk to Customers & Learn if Your Business is a Good Idea When Everyone is Lying to You"*](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742) by Rob Fitzpatrick
 
 ## About the Author
 

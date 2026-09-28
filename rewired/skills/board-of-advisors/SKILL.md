@@ -1,6 +1,6 @@
 ---
 name: board-of-advisors
-description: Convene the user's personal board of advisors — simulated roundtable takes from the mentors, operators, and thinkers they choose, on any idea, decision, or dilemma they bring. ALWAYS use this skill when the user says "run this by the board," "ask the board," "convene the board," "what would the board say," "board meeting," names an individual advisor from their roster, or shares an idea or decision and asks for their advisors' or roundtable's perspective. Also triggers on "personal board" or "round table," on "set up my board" or "build my board," and on research-mode phrases like "deep board," "board with receipts," or "have the board research this." Load and follow every rule before writing the first take.
+description: "Convene the user's personal board of advisors: simulated roundtable takes from the mentors, operators, and thinkers they chose, on an idea, decision, or dilemma. Use when the user says run this by the board, ask the board, convene the board, what would the board say, board meeting, names an advisor from their roster, or asks for their advisors' or roundtable's perspective. Also covers setting up or changing the board (build my board, set up my board, add or bench an advisor) and research mode (deep board, board with receipts, have the board research this)."
 ---
 
 # Board of Advisors

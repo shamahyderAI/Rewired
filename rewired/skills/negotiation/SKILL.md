@@ -1,6 +1,6 @@
 ---
 name: negotiation
-description: 'Prepare and execute negotiations using tactical empathy, calibrated questions, and the Ackerman method. Use when the user mentions "salary negotiation", "contract terms", "handling objections", "mirroring and labeling", "difficult conversation", "deal terms", "BATNA", "anchoring", "how do I ask for a raise", "get a better deal", or "they wont budge on price". Also trigger when preparing for a vendor negotiation, resolving a pricing dispute, or navigating a high-stakes conversation where both sides need to feel heard. Covers accusation audits, Black Swan discovery, and the "Thats Right" technique. For persuasion in product and marketing, see influence-psychology.'
+description: "Prepare and execute negotiations using tactical empathy, calibrated questions, and the Ackerman method. Use when the user mentions \"salary negotiation\", \"contract terms\", \"handling objections\", \"mirroring and labeling\", \"difficult conversation\", \"deal terms\", \"BATNA\", \"anchoring\", \"how do I ask for a raise\", \"get a better deal\", or \"they wont budge on price\". Also trigger when preparing for a vendor negotiation, resolving a pricing dispute, or navigating a high-stakes conversation where both sides need to feel heard. Covers accusation audits, Black Swan discovery, and the \"Thats Right\" technique. For persuasion in product and marketing, see influence-psychology."
 license: MIT
 metadata:
   author: wondelai
@@ -17,7 +17,9 @@ Tactical empathy-based negotiation framework from FBI hostage negotiator Chris V
 
 ## Scoring
 
-**Goal: 10/10.** Score 1 point per satisfied Quick Diagnostic row (6 rows), plus up to 4 points for execution quality: emotions labeled out loud (+1), "That's right" earned not "You're right" (+1), no "Why?" / no splitting the difference / no chasing "yes" (+1), at least one Black Swan surfaced (+1). Bands: **9-10** = audit delivered, calibrated questions and BATNA prepared, "That's right" achieved, Black Swans hunted; **5-6** = some prep but arguing the position or chasing "yes"; **<=3** = no audit, no BATNA, splitting the difference. Always state the current score and the specific gaps to reach 10/10.
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
+
+**Goal: 10/10.** Score 1 point per satisfied Quick Diagnostic row (6 rows), plus up to 4 points for execution quality: emotions labeled out loud (+1), "That's right" earned not "You're right" (+1), no "Why?" / no splitting the difference / no chasing "yes" (+1), at least one Black Swan surfaced (+1). The execution points can only be earned after the conversation, so when the user is still preparing, score the six prep rows out of 6 and save the full 10-point score for a debrief. Bands: **9-10** = audit delivered, calibrated questions and BATNA prepared, "That's right" achieved, Black Swans hunted; **5-6** = some prep but arguing the position or chasing "yes"; **<=3** = no audit, no BATNA, splitting the difference. When you score, state the current score and the specific gaps to reach 10/10.
 
 ## Framework
 
@@ -286,8 +288,8 @@ See techniques.md sections 4 and 19 when you need the full Late-Night DJ Voice m
 
 Based on Chris Voss's experience as an FBI hostage negotiator:
 
-- [*"Never Split the Difference: Negotiating As If Your Life Depended On It"*](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805?tag=wondelai00-20) by Chris Voss with Tahl Raz
-- [*"The Full Fee Agent: How to Stack the Odds in Your Favor as a Real Estate Professional"*](https://www.amazon.com/Full-Fee-Agent-Stack-Professional/dp/1544534655?tag=wondelai00-20) by Chris Voss and Steve Shull (the same principles applied to real estate and professional services)
+- [*"Never Split the Difference: Negotiating As If Your Life Depended On It"*](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805) by Chris Voss with Tahl Raz
+- [*"The Full Fee Agent: How to Stack the Odds in Your Favor as a Real Estate Professional"*](https://www.amazon.com/Full-Fee-Agent-Stack-Professional/dp/1544534655) by Chris Voss and Steve Shull (the same principles applied to real estate and professional services)
 
 ## About the Author
 

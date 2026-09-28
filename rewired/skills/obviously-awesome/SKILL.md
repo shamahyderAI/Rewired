@@ -1,6 +1,6 @@
 ---
 name: obviously-awesome
-description: 'Define product positioning by mapping competitive alternatives, unique attributes, and best-fit customers to the right market category. Use when the user mentions "positioning", "competitive alternatives", "how to position", "market category", "positioning canvas", "repositioning", "category creation", "what category are we in", or "why prospects dont get what we do". Also trigger when launching a new product, entering a crowded market, or diagnosing why prospects dont grasp the product''s value. Covers the positioning canvas and team workshops. For customer jobs analysis, see jobs-to-be-done. For go-to-market, see crossing-the-chasm.'
+description: "Define product positioning by mapping competitive alternatives, unique attributes, and best-fit customers to the right market category. Use when the user mentions \"positioning\", \"competitive alternatives\", \"how to position\", \"market category\", \"positioning canvas\", \"repositioning\", \"category creation\", \"what category are we in\", or \"why prospects dont get what we do\". Also trigger when launching a new product, entering a crowded market, or diagnosing why prospects dont grasp the product's value. Covers the positioning canvas and team workshops. For customer jobs analysis, see jobs-to-be-done. For go-to-market, see crossing-the-chasm."
 license: MIT
 metadata:
   author: wondelai
@@ -19,7 +19,9 @@ Positioning defines the context within which customers evaluate your product -- 
 
 ## Scoring
 
-**Goal: 10/10.** Rate any product's positioning 0-10 using the bands below, and always state the current score with the specific improvements needed to reach 10/10.
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
+
+**Goal: 10/10.** Rate any product's positioning 0-10 using the bands below. When you score, state the current score with the specific improvements needed to reach 10/10.
 
 | Score | Description |
 |-------|-------------|
@@ -237,8 +239,8 @@ See [references/case-studies.md](references/case-studies.md) when you want a wor
 
 ## Further Reading
 
-- [Obviously Awesome by April Dunford](https://www.amazon.com/Obviously-Awesome-Product-Positioning-Customers/dp/1999023005?tag=wondelai00-20) — The definitive guide to product positioning
-- [Sales Pitch by April Dunford](https://www.amazon.com/Sales-Pitch-Compelling-Positioning-Positioning/dp/1999023048?tag=wondelai00-20) — How to translate positioning into a winning sales narrative
+- [Obviously Awesome by April Dunford](https://www.amazon.com/Obviously-Awesome-Product-Positioning-Customers/dp/1999023005) — The definitive guide to product positioning
+- [Sales Pitch by April Dunford](https://www.amazon.com/Sales-Pitch-Compelling-Positioning-Positioning/dp/1999023048) — How to translate positioning into a winning sales narrative
 
 ## About the Author
 

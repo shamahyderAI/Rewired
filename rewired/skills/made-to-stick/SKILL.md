@@ -1,6 +1,6 @@
 ---
 name: made-to-stick
-description: 'Craft messages that are understood, remembered, and drive action using the SUCCESs checklist (Simple, Unexpected, Concrete, Credible, Emotional, Stories). Use when the user mentions "make it memorable", "no one remembers our pitch", "tagline", "value proposition", "why the message isnt landing", "curse of knowledge", or "concrete language". Also trigger when writing a pitch deck, simplifying a complex product explanation, or making a presentation more compelling. Covers the six SUCCESs traits and the curse of knowledge. For narrative brand frameworks, see storybrand-messaging. For viral sharing, see contagious.'
+description: "Craft messages that are understood, remembered, and drive action using the SUCCESs checklist (Simple, Unexpected, Concrete, Credible, Emotional, Stories). Use when the user mentions \"make it memorable\", \"no one remembers our pitch\", \"tagline\", \"value proposition\", \"why the message isnt landing\", \"curse of knowledge\", or \"concrete language\". Also trigger when writing a pitch deck, simplifying a complex product explanation, or making a presentation more compelling. Covers the six SUCCESs traits and the curse of knowledge. For narrative brand frameworks, see storybrand-messaging. For viral sharing, see contagious."
 license: MIT
 metadata:
   author: wondelai
@@ -17,7 +17,9 @@ A framework for crafting ideas and messages that are understood, remembered, and
 
 ## Scoring
 
-**Goal: 10/10.** Score any messaging (copy, presentations, campaigns, onboarding) by running the [Quick Diagnostic](#quick-diagnostic): rate each of the six traits 1-10, then map the 6-60 total to a band (50-60 = 9-10, extremely sticky; 35-49 = 7-8, strong; 20-34 = 4-6, forgettable; below 20 = ≤3, won't stick). Always state the current score, which traits scored lowest, and the specific fix from the diagnostic's Fix column.
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
+
+**Goal: 10/10.** Score any messaging (copy, presentations, campaigns, onboarding) by running the [Quick Diagnostic](#quick-diagnostic): rate each of the six traits 1-10, then map the 6-60 total to a band (50-60 = 9-10, extremely sticky; 35-49 = 7-8, strong; 20-34 = 4-6, forgettable; below 20 = ≤3, won't stick). When you score, state the current score, which traits scored lowest, and the specific fix from the diagnostic's Fix column.
 
 ## The SUCCESs Framework
 
@@ -240,8 +242,8 @@ Sum the six scores and band per [Scoring](#scoring) above.
 
 For the complete framework and research:
 
-- [*"Made to Stick"*](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287?tag=wondelai00-20) by Chip Heath & Dan Heath
-- [*"Switch"*](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752?tag=wondelai00-20) by Chip Heath & Dan Heath (companion: how to make change stick)
+- [*"Made to Stick"*](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287) by Chip Heath & Dan Heath
+- [*"Switch"*](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) by Chip Heath & Dan Heath (companion: how to make change stick)
 
 ## About the Authors
 

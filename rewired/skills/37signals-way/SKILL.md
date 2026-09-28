@@ -1,6 +1,6 @@
 ---
 name: 37signals-way
-description: 'Build lean, opinionated products using the 37signals philosophy from "Getting Real", "Rework", and "Shape Up". Use when the user mentions "Getting Real", "Rework", "Shape Up", "37signals", "Basecamp method", "six-week cycles", "fixed time variable scope", "appetite vs estimates", "betting table", "breadboarding", "fat marker sketch", "build less", "underdo the competition", "opinionated software", "we have too many meetings", "how do we ship faster", or "stop overbuilding". Also trigger when cutting scope to ship sooner, running a small team, or avoiding long-term roadmaps. Covers shaping, betting, building, and the art of saying no. For MVP validation, see lean-startup. For design sprints, see design-sprint.'
+description: "Build lean, opinionated products using the 37signals philosophy from \"Getting Real\", \"Rework\", and \"Shape Up\". Use when the user mentions \"Getting Real\", \"Rework\", \"Shape Up\", \"37signals\", \"Basecamp method\", \"six-week cycles\", \"fixed time variable scope\", \"appetite vs estimates\", \"betting table\", \"breadboarding\", \"fat marker sketch\", \"build less\", \"underdo the competition\", \"opinionated software\", \"we have too many meetings\", \"how do we ship faster\", or \"stop overbuilding\". Also trigger when cutting scope to ship sooner, running a small team, or avoiding long-term roadmaps. Covers shaping, betting, building, and the art of saying no. For MVP validation, see lean-startup. For design sprints, see design-sprint."
 license: MIT
 metadata:
   author: wondelai
@@ -16,6 +16,8 @@ A system for building profitable software without bloat, bureaucracy, or burnout
 **Build less.** The best products do fewer things exceptionally well — simplicity is the destination, not the starting point. Traditional development adds; the 37signals way subtracts: build half a product (not a half-assed product), say no by default, fix the time and flex the scope. Constraints are what make great work possible — six weeks, three people, and a shaped pitch force you to find the essential version.
 
 ## Scoring
+
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
 
 **Goal: 10/10.** Rate product plans, feature scopes, and team processes 0-10 against these principles. Report the current score and the specific changes needed to reach 10/10.
 
@@ -178,11 +180,11 @@ See [references/case-studies.md](references/case-studies.md) for end-to-end work
 
 ## Further Reading
 
-- [*"Getting Real"*](https://www.amazon.com/Getting-Real-Smarter-Successful-Application/dp/0578012812?tag=wondelai00-20) by Jason Fried & David Heinemeier Hansson
-- [*"Rework"*](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745?tag=wondelai00-20) by Jason Fried & David Heinemeier Hansson
-- [*"Shape Up: Stop Running in Circles and Ship Work that Matters"*](https://www.amazon.com/Shape-Up-Circles-Ship-Work/dp/B09ZSY1MWP?tag=wondelai00-20) by Ryan Singer
-- [*"It Doesn't Have to Be Crazy at Work"*](https://www.amazon.com/Doesnt-Have-Crazy-Work/dp/0062874780?tag=wondelai00-20) by Jason Fried & David Heinemeier Hansson
-- [*"Remote: Office Not Required"*](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501?tag=wondelai00-20) by Jason Fried & David Heinemeier Hansson
+- [*"Getting Real"*](https://www.amazon.com/Getting-Real-Smarter-Successful-Application/dp/0578012812) by Jason Fried & David Heinemeier Hansson
+- [*"Rework"*](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745) by Jason Fried & David Heinemeier Hansson
+- [*"Shape Up: Stop Running in Circles and Ship Work that Matters"*](https://www.amazon.com/Shape-Up-Circles-Ship-Work/dp/B09ZSY1MWP) by Ryan Singer
+- [*"It Doesn't Have to Be Crazy at Work"*](https://www.amazon.com/Doesnt-Have-Crazy-Work/dp/0062874780) by Jason Fried & David Heinemeier Hansson
+- [*"Remote: Office Not Required"*](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501) by Jason Fried & David Heinemeier Hansson
 
 ## About the Authors
 

@@ -30,7 +30,7 @@ and send it to the same list. You just saved the full cost below.*
 | Include 23-min refocus overhead per attendee? (y/n) | _______ |
 
 ```bash
-python scripts/meeting_cost_calculator.py \
+python <skill-dir>/scripts/meeting_cost_calculator.py \
   --attendees ___ --minutes ___ --avg-rate ___ --include-refocus \
   --has-decision --has-agenda --has-owner
 ```

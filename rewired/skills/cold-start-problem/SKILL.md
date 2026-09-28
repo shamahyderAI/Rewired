@@ -1,6 +1,6 @@
 ---
 name: cold-start-problem
-description: 'Start and scale networked products using Andrew Chen''s "The Cold Start Problem" framework for network effects. Use when the user mentions "network effects", "chicken and egg", "cold start", "two-sided marketplace", "atomic network", "hard side", "liquidity", "critical mass", "invite-only launch", "how do I get my first users", or "the marketplace has no buyers or sellers". Also trigger when launching a marketplace, social, or collaboration product that is worthless without other users, deciding launch sequencing and seeding tactics, or diagnosing stalled network growth at scale. Covers the five stages: cold start, tipping point, escape velocity, hitting the ceiling, and the moat. For word-of-mouth virality, see contagious. For habit-driven retention, see hooked-ux.'
+description: "Start and scale networked products using Andrew Chen's \"The Cold Start Problem\" framework for network effects. Use when the user mentions \"network effects\", \"chicken and egg\", \"cold start\", \"two-sided marketplace\", \"atomic network\", \"hard side\", \"liquidity\", \"critical mass\", \"invite-only launch\", \"how do I get my first users\", or \"the marketplace has no buyers or sellers\". Also trigger when launching a marketplace, social, or collaboration product that is worthless without other users, deciding launch sequencing and seeding tactics, or diagnosing stalled network growth at scale. Covers the five stages: cold start, tipping point, escape velocity, hitting the ceiling, and the moat. For word-of-mouth virality, see contagious. For habit-driven retention, see hooked-ux."
 license: MIT
 metadata:
   author: wondelai
@@ -16,6 +16,8 @@ A framework for starting and scaling products that live or die by network effect
 **Network effects start as a liability, not an asset.** Value lives in connections between users, and on day one there are none — the same force that makes a dense network unstoppable makes an empty one useless. You don't escape by launching to a market; you escape by building one tiny, complete, self-sustaining network at a time, solving its hard side first, then tipping adjacent networks with a repeatable playbook until the market follows.
 
 ## Scoring
+
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
 
 **Goal: 10/10.** Rate launch plans and growth strategies for networked products 0-10 against the principles below. Report the current score and the specific changes needed to reach 10/10.
 
@@ -179,9 +181,9 @@ See [references/scale-ceiling-moat.md](references/scale-ceiling-moat.md) when gr
 
 ## Further Reading
 
-- [*"The Cold Start Problem: How to Start and Scale Network Effects"*](https://www.amazon.com/Cold-Start-Problem-Andrew-Chen/dp/0062969749?tag=wondelai00-20) by Andrew Chen
-- [*"Platform Revolution"*](https://www.amazon.com/Platform-Revolution-Networked-Markets-Transforming/dp/0393249131?tag=wondelai00-20) by Geoffrey Parker, Marshall Van Alstyne & Sangeet Paul Choudary
-- [*"Blitzscaling"*](https://www.amazon.com/Blitzscaling-Lightning-Fast-Building-Massively-Companies/dp/1524761419?tag=wondelai00-20) by Reid Hoffman & Chris Yeh
+- [*"The Cold Start Problem: How to Start and Scale Network Effects"*](https://www.amazon.com/Cold-Start-Problem-Andrew-Chen/dp/0062969749) by Andrew Chen
+- [*"Platform Revolution"*](https://www.amazon.com/Platform-Revolution-Networked-Markets-Transforming/dp/0393249131) by Geoffrey Parker, Marshall Van Alstyne & Sangeet Paul Choudary
+- [*"Blitzscaling"*](https://www.amazon.com/Blitzscaling-Lightning-Fast-Building-Massively-Companies/dp/1524761419) by Reid Hoffman & Chris Yeh
 
 ## About the Author
 

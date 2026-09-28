@@ -1,6 +1,6 @@
 ---
 name: influence-psychology
-description: 'Apply the seven principles of ethical persuasion (reciprocity, commitment, social proof, authority, liking, scarcity, unity) to product design, copy, and sales. Use when the user mentions "social proof", "persuasive copy", "why users dont convert", "ethical persuasion", "reciprocity", "scarcity tactics", "commitment and consistency", "shared identity", "in-group", "make my copy more persuasive", "increase trust", or "get more people to say yes". Also trigger when designing testimonial sections, crafting urgency messaging, or improving trust signals on landing pages. Covers the principles, when each applies, and ethical limits. For deal negotiation tactics, see negotiation. For viral word-of-mouth, see contagious.'
+description: "Apply the seven principles of ethical persuasion (reciprocity, commitment, social proof, authority, liking, scarcity, unity) to product design, copy, and sales. Use when the user mentions \"social proof\", \"persuasive copy\", \"why users dont convert\", \"ethical persuasion\", \"reciprocity\", \"scarcity tactics\", \"commitment and consistency\", \"shared identity\", \"in-group\", \"make my copy more persuasive\", \"increase trust\", or \"get more people to say yes\". Also trigger when designing testimonial sections, crafting urgency messaging, or improving trust signals on landing pages. Covers the principles, when each applies, and ethical limits. For deal negotiation tactics, see negotiation. For viral word-of-mouth, see contagious."
 license: MIT
 metadata:
   author: wondelai
@@ -17,7 +17,9 @@ Apply six decades of persuasion science — Cialdini's research into why people 
 
 ## Scoring
 
-**Goal: 10/10.** When reviewing or creating persuasive elements (features, copy, flows, campaigns), run the Quick Diagnostic, then score against the bands below and apply the ethics gate. Always report the current score and the specific change needed to reach 10/10.
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
+
+**Goal: 10/10.** When reviewing or creating persuasive elements (features, copy, flows, campaigns), run the Quick Diagnostic, then score against the bands below and apply the ethics gate. When you score, report the current score and the specific change needed to reach 10/10.
 
 - **9-10** — Multiple principles deliberately layered; every claim truthful; users can reverse the decision; passes the transparency test (still works if the user knows the strategy); safe for vulnerable users.
 - **7-8** — Principles deliberately layered and honest, but one gap (e.g. weak reversibility, or a single principle where layering was possible).
@@ -304,8 +306,8 @@ Audit any persuasive element:
 
 Based on Robert Cialdini's research and books:
 
-- [*"Influence: The Psychology of Persuasion"*](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X?tag=wondelai00-20) by Robert B. Cialdini (Original + Expanded Edition with Unity principle)
-- [*"Pre-Suasion: A Revolutionary Way to Influence and Persuade"*](https://www.amazon.com/Pre-Suasion-Revolutionary-Way-Influence-Persuade/dp/1501109790?tag=wondelai00-20) by Robert B. Cialdini (Advanced: creating privileged moments for influence)
+- [*"Influence: The Psychology of Persuasion"*](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) by Robert B. Cialdini (Original + Expanded Edition with Unity principle)
+- [*"Pre-Suasion: A Revolutionary Way to Influence and Persuade"*](https://www.amazon.com/Pre-Suasion-Revolutionary-Way-Influence-Persuade/dp/1501109790) by Robert B. Cialdini (Advanced: creating privileged moments for influence)
 
 ## About the Author
 

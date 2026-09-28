@@ -1,22 +1,22 @@
 ---
 name: roast
-description: Use when someone asks to roast an idea, pressure-test or stress-test an idea, validate a business idea, "convene the panel", get a brutal second opinion before building something, or says "/roast". Spins up a 5-angle panel (Critic, Champion, Analyst, Investigator, Customer) that attacks the idea from every angle, then a Judge returns one GO / RESHAPE / KILL verdict with the cheapest test to de-risk it.
-argument-hint: "[the idea to roast]"
+description: "Use when someone asks to roast an idea, pressure-test or stress-test an idea, validate a business idea, \"convene the panel\", get a brutal second opinion before building something, or says \"/roast\". Spins up a 5-angle panel (Critic, Champion, Analyst, Investigator, Customer) that attacks the idea from every angle, then a Judge returns one GO / RESHAPE / KILL verdict with the cheapest test to de-risk it."
 license: MIT
 metadata:
-  version: 1.0.0
-  build_pattern: "Path-B persona skill — adversarial panel + deterministic verdict tools"
-  distinct_from: "andreessen (single market-first lens, not a panel); c-level boardroom (enterprise C-suite pipeline requiring company-context onboarding); grill-me (interrogates, no verdict)"
+  version: 1.1.0
+  author: Alireza Rezvani (adapted for Cowork by Rewired)
 ---
 
 # Roast — 5-Angle Idea Panel → One Verdict
 
-> **Portability:** Reasoning-led skill with 3 stdlib Python tools. No external APIs, no LLM calls in
-> scripts. Works in Claude Code CLI and Claude.ai web. The panel does the depth; the Judge does the call.
+> **Portability:** Reasoning-led skill with 3 standard-library Python tools. No external APIs, no LLM
+> calls in scripts. The scripts live in the `scripts/` folder next to this SKILL.md; call them by that
+> full path, since the working directory is usually somewhere else. If Python isn't available, do the
+> same steps by reasoning. The panel does the depth; the Judge does the call.
 
 ## What this does
 
-Claude's default is to agree with you. `/roast` is the opposite. It convenes a panel of five
+Claude's default is to agree with you. A roast is the opposite. It convenes a panel of five
 independent reviewers — **The Critic, The Champion, The Analyst, The Investigator, and The
 Customer** — who tear an idea apart and build it up from every angle, then a Judge synthesizes
 everything into one honest verdict. Use it before you sink time and money into building the wrong
@@ -27,7 +27,7 @@ surface what you can't see because you're too close to it.
 
 ## Step 1 — Frame the idea
 
-If `$ARGUMENTS` contains the idea, start there. Then ask the user a tight set of clarifying
+If the user already described the idea, start there. Then ask the user a tight set of clarifying
 questions so the panel has real context to work with. Ask only what hasn't already been provided.
 Keep it to 3-4 questions max, in one batch:
 
@@ -43,10 +43,10 @@ Assemble the brief with `scripts/brief_builder.py` — it normalizes the four lo
 one paragraph and tells you if anything critical is still missing before you spend five subagents:
 
 ```bash
-python scripts/brief_builder.py \
+python <skill-dir>/scripts/brief_builder.py \
   --idea "AI that drafts grant applications for small nonprofits from a 10-min intake call" \
   --who "1-3 person nonprofits with no grant writer" \
-  --money "$99/mo SaaS" --edge "I ran a nonprofit for 8 years" \
+  --money '$99/mo SaaS' --edge "I ran a nonprofit for 8 years" \
   --constraints "bootstrapped, first dollar in 30 days"
 ```
 
@@ -54,8 +54,10 @@ Paste the resulting brief verbatim into every panelist's prompt, so all five jud
 
 ## Step 2 — Run the 5-angle panel (5 reviewers, in parallel)
 
-Spin up **all five reviewers in parallel in a single message** (one Task call each,
-`subagent_type: general-purpose`). Paste the same brief into each, then give each its mandate below.
+If you can launch subagents, run **all five reviewers in parallel**, one subagent each, with the same
+brief pasted into each and its mandate below. If you can't, write each panelist's take yourself in its
+own section, fully in character, before reading the others. Keep them independent: don't let an
+earlier panelist's view shape a later one.
 
 Each panelist must return: a one-line stance, their 3-5 sharpest points, the single most important
 thing the user must hear, and a 1-10 score on their own dimension (1 = walk away, 10 = no-brainer).
@@ -83,7 +85,7 @@ synthesizer so the call is reproducible weighting, not vibes — then name the r
 reviewers and resolve it in prose:
 
 ```bash
-python scripts/verdict_synthesizer.py \
+python <skill-dir>/scripts/verdict_synthesizer.py \
   --critic 4 --champion 8 --analyst 7 --investigator 5 --customer 6
 ```
 
@@ -97,7 +99,7 @@ the user can actually ship this fast given the edge they described. Then design 
 from the riskiest assumption the panel surfaced:
 
 ```bash
-python scripts/cheapest_test_designer.py --risk price --price 99
+python <skill-dir>/scripts/cheapest_test_designer.py --risk price --price 99
 ```
 
 Output the verdict in this exact shape:
@@ -160,11 +162,11 @@ Then list the five panel scores in one line: `Critic X/10 · Champion X/10 · An
 
 ## Distinct From (don't reach for the wrong tool)
 
-- **`productivity/andreessen`** — a single market-first operator. `roast` is five independent lenses → a judge. Use andreessen when you specifically want the market-dominates thesis; use roast when you want 360° coverage.
-- **`c-level-advisor` boardroom / `/cs:boardroom`** — an enterprise C-suite pipeline that needs `company-context.md` onboarding and outputs a board memo. `roast` is a zero-setup, solo-founder, 90-second gut check.
-- **`engineering/grill-me`** — interrogates a plan one question at a time to reach shared understanding. It does not issue a GO/KILL verdict. Roast judges; grill-me clarifies.
+- **board-of-advisors** — the user's own chosen advisors weighing in through their lenses. Use it for judgment calls and dilemmas; use roast when the question is "should I build or sell this idea at all?"
+- **research-brief** — a sourced landscape or decision brief. Use it when the user wants evidence, not a verdict.
+- **mom-test** / **lean-startup** — for designing the customer conversations and experiments that the cheapest test points to.
 
 ---
 
-**Version:** 1.0.0
-**Build pattern:** Path-B persona skill — adversarial panel preserved + deterministic verdict tooling added.
+**Version:** 1.1.0
+**Credits:** Alireza Rezvani (MIT), adapted for Cowork by Rewired.

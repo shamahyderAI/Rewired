@@ -23,9 +23,9 @@ roast/
 ## Tools (all stdlib, `--help` + `--sample`, no LLM calls)
 
 ```bash
-python scripts/brief_builder.py --sample
-python scripts/verdict_synthesizer.py --sample
-python scripts/cheapest_test_designer.py --sample
+python <skill-dir>/scripts/brief_builder.py --sample
+python <skill-dir>/scripts/verdict_synthesizer.py --sample
+python <skill-dir>/scripts/cheapest_test_designer.py --sample
 ```
 
 ## Design notes

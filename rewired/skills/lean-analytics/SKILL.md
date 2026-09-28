@@ -1,6 +1,6 @@
 ---
 name: lean-analytics
-description: 'Choose and audit startup metrics using Croll and Yoskovitz''s "Lean Analytics". Use when the user mentions "what metrics should we track", "KPIs", "north star metric", "One Metric That Matters (OMTM)", "vanity metrics", "analytics dashboard", "DAU/MAU", "churn benchmark", or "measure product-market fit". Also trigger when choosing metrics for a startup or feature, auditing a dashboard for vanity metrics, setting metric targets and baselines, or instrumenting a product by business model and stage. Covers good-vs-vanity metrics, the One Metric That Matters, metrics by business model, the five startup stages, and benchmarks. For the build-measure-learn loop, see lean-startup. For fixing activation and retention, see improve-retention.'
+description: "Choose and audit startup metrics using Croll and Yoskovitz's \"Lean Analytics\". Use when the user mentions \"what metrics should we track\", \"KPIs\", \"north star metric\", \"One Metric That Matters (OMTM)\", \"vanity metrics\", \"analytics dashboard\", \"DAU/MAU\", \"churn benchmark\", or \"measure product-market fit\". Also trigger when choosing metrics for a startup or feature, auditing a dashboard for vanity metrics, setting metric targets and baselines, or instrumenting a product by business model and stage. Covers good-vs-vanity metrics, the One Metric That Matters, metrics by business model, the five startup stages, and benchmarks. For the build-measure-learn loop, see lean-startup. For habit-driven retention, see hooked-ux."
 license: MIT
 metadata:
   author: wondelai
@@ -16,6 +16,8 @@ A data discipline for startups distilled from Alistair Croll and Benjamin Yoskov
 **Focus on the one metric that matters right now — everything else is noise that feels like progress.** Startups die from lack of focus more often than lack of data. The discipline is knowing your business model, knowing your stage, and tracking the single number that tells you whether the riskiest part of the business is working. A metric earns attention only if it changes what you do next.
 
 ## Scoring
+
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
 
 **Goal: 10/10.** Rate metric choices, dashboards, and instrumentation plans 0-10 against these principles. Report the current score and the specific changes needed to reach 10/10.
 
@@ -177,9 +179,9 @@ See references/case-studies.md when you want a full worked walkthrough — three
 
 ## Further Reading
 
-- [*"Lean Analytics: Use Data to Build a Better Startup Faster"*](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675?tag=wondelai00-20) by Alistair Croll & Benjamin Yoskovitz
-- [*"The Lean Startup"*](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898?tag=wondelai00-20) by Eric Ries
-- [*"Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing"*](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264?tag=wondelai00-20) by Ron Kohavi, Diane Tang & Ya Xu
+- [*"Lean Analytics: Use Data to Build a Better Startup Faster"*](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675) by Alistair Croll & Benjamin Yoskovitz
+- [*"The Lean Startup"*](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) by Eric Ries
+- [*"Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing"*](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264) by Ron Kohavi, Diane Tang & Ya Xu
 
 ## About the Authors
 

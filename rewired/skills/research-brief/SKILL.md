@@ -1,6 +1,6 @@
 ---
 name: research-brief
-description: An executive research agent that turns any question into a decision-ready brief — multi-source research with credibility grading, competing views, and a bottom-line-up-front summary. Use ANY time the user asks to "research," "dig into," "deep dive," "what's the story on," "get me smart on," or "brief me on" a topic, market, company, trend, or decision — or when they need to walk into a room sounding like they've followed an issue for months. Not for meeting attendee prep (use meeting-briefing for that).
+description: "An executive research agent that turns a question into a decision-ready brief: multi-source research with graded sources, competing views, and the bottom line first. Use when the user asks to research, dig into, deep dive, get me smart on, what's the story on, or brief me on a topic, market, company, trend, or decision, or needs to walk into a room sounding like they've followed an issue for months. For prep on the people in a specific meeting, use meeting-briefing."
 ---
 
 # Research Brief

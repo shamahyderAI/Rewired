@@ -1,6 +1,6 @@
 ---
 name: design-sprint
-description: 'Run a structured 5-day process to prototype, test, and validate product ideas with real users. Use when the user mentions "design sprint", "validate before we build", "rapid prototype", "test with users", or "should we build this". Also trigger when a team is stuck in endless debate over a high-stakes product decision, or wants to de-risk a costly idea before investing in development. Covers mapping, sketching, deciding, prototyping, and testing across Monday-Friday. For ongoing experimentation and MVPs, see lean-startup. For customer job analysis, see jobs-to-be-done. For non-leading user interviews, see mom-test.'
+description: "Run a structured 5-day process to prototype, test, and validate product ideas with real users. Use when the user mentions \"design sprint\", \"validate before we build\", \"rapid prototype\", \"test with users\", or \"should we build this\". Also trigger when a team is stuck in endless debate over a high-stakes product decision, or wants to de-risk a costly idea before investing in development. Covers mapping, sketching, deciding, prototyping, and testing across Monday-Friday. For ongoing experimentation and MVPs, see lean-startup. For customer job analysis, see jobs-to-be-done. For non-leading user interviews, see mom-test."
 license: MIT
 metadata:
   author: wondelai
@@ -16,6 +16,8 @@ A five-day process for answering critical business questions through design, pro
 **Compress months of debate, design, and testing into one week — and test with real users before writing any production code.** The sprint replaces endless discussion with a fixed Monday-to-Friday spine, hard time-boxes, and a single Decider, so a high-stakes product question gets a real answer in five days instead of five months.
 
 ## Scoring
+
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
 
 **Goal: 10/10.** Score a sprint plan or execution by awarding 1 point for each item present and correct (10 total). Report the score and the missing items needed to reach 10/10.
 
@@ -232,7 +234,7 @@ Audit any sprint plan:
 
 For the complete methodology, exercises, and case studies:
 
-- [*"Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days"*](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X?tag=wondelai00-20) by Jake Knapp, John Zeratsky, Braden Kowitz
+- [*"Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days"*](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X) by Jake Knapp, John Zeratsky, Braden Kowitz
 
 ## About the Author
 

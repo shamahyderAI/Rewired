@@ -1,6 +1,6 @@
 ---
 name: storybrand-messaging
-description: 'Clarify brand messaging using narrative structure that positions the customer as hero. Use when the user mentions "brand message", "website copy", "elevator pitch", "one-liner", "brand script", "StoryBrand framework", "customer as hero", or "my messaging isnt resonating". Also trigger when rewriting homepage copy, crafting email nurture sequences, or creating consistent messaging across sales and marketing collateral. Covers landing page copy, marketing collateral, and consistent communication. For memorable messaging, see made-to-stick. For product positioning, see obviously-awesome.'
+description: "Clarify brand messaging using narrative structure that positions the customer as hero. Use when the user mentions \"brand message\", \"website copy\", \"elevator pitch\", \"one-liner\", \"brand script\", \"StoryBrand framework\", \"customer as hero\", or \"my messaging isnt resonating\". Also trigger when rewriting homepage copy, crafting email nurture sequences, or creating consistent messaging across sales and marketing collateral. Covers landing page copy, marketing collateral, and consistent communication. For memorable messaging, see made-to-stick. For product positioning, see obviously-awesome."
 license: MIT
 metadata:
   author: wondelai
@@ -17,7 +17,9 @@ Clarify your message so customers will listen. Customers don't buy the best prod
 
 ## Scoring
 
-**Goal: 10/10.** Score any marketing copy or brand messaging by the Quick Diagnostic: 1 point per satisfied row (7 rows) plus up to 3 points for a one-liner that passes the cocktail party test (clear + repeatable in one hearing). Bands: 9-10 = customer is the hero, all three problem levels named, empathy + authority both shown, a 3-step plan, one obvious Direct CTA, and both success and failure stakes painted; 5-6 = SB7 partly applied but the internal problem, stakes, or CTA is missing; <=3 = brand-as-hero, feature-led, or no clear ask. Always state the current score and the specific changes needed to reach 10/10.
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
+
+**Goal: 10/10.** Score any marketing copy or brand messaging by the Quick Diagnostic: 1 point per satisfied row (7 rows) plus up to 3 points for a one-liner that passes the cocktail party test (clear + repeatable in one hearing). Bands: 9-10 = customer is the hero, all three problem levels named, empathy + authority both shown, a 3-step plan, one obvious Direct CTA, and both success and failure stakes painted; 5-6 = SB7 partly applied but the internal problem, stakes, or CTA is missing; <=3 = brand-as-hero, feature-led, or no clear ask. When you score, state the current score and the specific changes needed to reach 10/10.
 
 ## The SB7 Framework
 
@@ -252,7 +254,7 @@ See: [references/multi-channel-consistency.md](references/multi-channel-consiste
 
 For the complete methodology and worksheets:
 
-- [*"Building a StoryBrand: Clarify Your Message So Customers Will Listen"*](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718033329?tag=wondelai00-20) by Donald Miller
+- [*"Building a StoryBrand: Clarify Your Message So Customers Will Listen"*](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718033329) by Donald Miller
 
 ## About the Author
 

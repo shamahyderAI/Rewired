@@ -1,6 +1,6 @@
 ---
 name: meeting-briefing
-description: Executive meeting prep, the way a great chief of staff does it. Looks at the user's calendar, identifies who they're meeting, researches each external attendee, and delivers a concise briefing — role, background, company, prior contact, and practical notes. Use ANY time the user asks to be prepped for a meeting, asks "who am I meeting with," says "brief me on [person/company]," "prep my day," "what do I need to know before my 2pm," or asks about an upcoming meeting's attendees. Also use when the user asks to set up daily or morning meeting briefings.
+description: "Executive meeting prep, the way a great chief of staff does it: checks the user's calendar, identifies who they're meeting, researches each external attendee, and delivers a concise briefing (role, background, company, prior contact, practical notes). Use when the user asks to be prepped for a meeting, asks who am I meeting with, says prep my day, what do I need to know before my 2pm, or brief me on the people in an upcoming meeting. Also use to set up daily meeting briefings. For research on a topic, market, or company outside a specific meeting, use research-brief."
 ---
 
 # Meeting Briefing

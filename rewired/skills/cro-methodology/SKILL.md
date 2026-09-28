@@ -1,6 +1,6 @@
 ---
 name: cro-methodology
-description: 'Audit websites and landing pages for conversion issues and design evidence-based A/B tests. Use when the user mentions "landing page isnt converting", "conversion rate", "A/B test", "why visitors leave", "objection handling", "bounce rate", "conversion funnel", "increase signups", or "people add to cart but dont buy". Also trigger when diagnosing why signups are low, designing experiment hypotheses, or auditing checkout flows for friction points. Covers funnel mapping, persuasion assets, and objection/counter-objection frameworks. For overall marketing strategy, see one-page-marketing. For usability issues, see ux-heuristics.'
+description: "Audit websites and landing pages for conversion issues and design evidence-based A/B tests. Use when the user mentions \"landing page isnt converting\", \"conversion rate\", \"A/B test\", \"why visitors leave\", \"objection handling\", \"bounce rate\", \"conversion funnel\", \"increase signups\", or \"people add to cart but dont buy\". Also trigger when diagnosing why signups are low, designing experiment hypotheses, or auditing checkout flows for friction points. Covers funnel mapping, persuasion assets, and objection/counter-objection frameworks. For overall marketing strategy, see one-page-marketing. For testing a redesign with real users, see design-sprint."
 license: MIT
 metadata:
   author: wondelai
@@ -16,6 +16,8 @@ Scientific, customer-centric approach to conversion rate optimization based on t
 **Don't guess -- discover.** Every visitor who doesn't convert has a reason. Discover those reasons through research, then systematically eliminate them with evidence and proof. This evidence-based approach consistently outperforms "best practices", intuition, competitor copying, and expert opinion.
 
 ## Scoring
+
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
 
 **Goal: 10/10.** Score any landing page, funnel, or conversion flow against the seven Quick Diagnostic rows below: award ~1.4 points per row answered "yes" (7 rows = 9.8, capped at 10). Bands: **9-10** = single clear action, research-grounded O/CO table, value prop legible in 5 seconds, proof at every friction point, funnel mapped, path free of UX blockers; **5-6** = guessed objections, generic best-practices copy, proof buried in FAQs; **<=3** = competing CTAs, no funnel map, claims with no proof. Report the current score and the specific diagnostic rows failing.
 
@@ -220,7 +222,7 @@ Audit any landing page or conversion flow:
 
 For the complete CRE Methodology(TM), detailed case studies, and advanced techniques:
 
-- [*"Making Websites Win: Apply the Customer-Centric Methodology That Has Doubled the Sales of Many Leading Websites"*](https://www.amazon.com/Making-Websites-Win-Customer-Centric-Methodology/dp/1544500513?tag=wondelai00-20) by Dr. Karl Blanks and Ben Jesson
+- [*"Making Websites Win: Apply the Customer-Centric Methodology That Has Doubled the Sales of Many Leading Websites"*](https://www.amazon.com/Making-Websites-Win-Customer-Centric-Methodology/dp/1544500513) by Dr. Karl Blanks and Ben Jesson
 
 ## About the Author
 

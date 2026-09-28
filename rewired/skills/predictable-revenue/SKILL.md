@@ -1,6 +1,6 @@
 ---
 name: predictable-revenue
-description: 'Build a scalable outbound B2B sales machine with specialized roles (SDR, AE, CSM). Use when the user mentions "outbound sales", "Cold Calling 2.0", "cold email sequences", "sales pipeline", "SDR process", "sales development", "build an outbound sales team", or "fill my pipeline". Also trigger when setting up a B2B SaaS sales team from scratch or building a lead-qualification framework to improve close rates. Covers the three lead types (seeds/nets/spears), role specialization, the referral-email method, ANUM qualification, and pipeline math. For offer design, see hundred-million-offers. For persuasion science, see influence-psychology.'
+description: "Build a scalable outbound B2B sales machine with specialized roles (SDR, AE, CSM). Use when the user mentions \"outbound sales\", \"Cold Calling 2.0\", \"cold email sequences\", \"sales pipeline\", \"SDR process\", \"sales development\", \"build an outbound sales team\", or \"fill my pipeline\". Also trigger when setting up a B2B SaaS sales team from scratch or building a lead-qualification framework to improve close rates. Covers the three lead types (seeds/nets/spears), role specialization, the referral-email method, ANUM qualification, and pipeline math. For offer design, see hundred-million-offers. For persuasion science, see influence-psychology."
 license: MIT
 metadata:
   author: wondelai
@@ -17,7 +17,9 @@ A systematic approach to building a scalable, predictable B2B sales machine — 
 
 ## Scoring
 
-**Goal: 10/10.** Score a sales process 0-10 by awarding 2 points for each of the five [Quick Diagnostic](#quick-diagnostic) rows it satisfies (prospecting/closing separated, defined outbound process, 3-month pipeline predictability, known lead-type mix, standardized SDR→AE handoff). Bands: **9-10** = role separation plus a repeatable process that predicts pipeline; **5-6** = some specialization but ad-hoc prospecting or unpredictable pipeline; **≤3** = one person prospects and closes, revenue depends on heroics. Always give the current score and the specific diagnostic rows blocking 10/10.
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
+
+**Goal: 10/10.** Score a sales process 0-10 by awarding 2 points for each of the five [Quick Diagnostic](#quick-diagnostic) rows it satisfies (prospecting/closing separated, defined outbound process, 3-month pipeline predictability, known lead-type mix, standardized SDR→AE handoff). Bands: **9-10** = role separation plus a repeatable process that predicts pipeline; **5-6** = some specialization but ad-hoc prospecting or unpredictable pipeline; **≤3** = one person prospects and closes, revenue depends on heroics. When you score, give the current score and the specific diagnostic rows blocking 10/10.
 
 ## The Three Types of Leads
 
@@ -118,7 +120,7 @@ Opportunities Needed ÷ SDR Conversion = Prospects Needed
 Prospects Needed ÷ Response Rate = Emails Needed
 ```
 
-**Example:** $1M ARR ÷ $20K deals = 50 deals; ÷ 25% win rate = 200 opportunities; at 10% response rate and 10% response-to-qualified conversion = 20,000 emails ≈ 2-3 SDRs (each sends 300-500/month).
+**Example:** $1M ARR ÷ $20K deals = 50 deals; ÷ 25% win rate = 200 opportunities; at 10% response rate and 10% response-to-qualified conversion = 20,000 emails a year ≈ 1-2 SDRs (each sends roughly 1,000-2,000 new emails a month, and 200 opportunities a year is about 17 a month).
 
 | Metric | Benchmark |
 |--------|-----------|
@@ -127,6 +129,8 @@ Prospects Needed ÷ Response Rate = Emails Needed
 | Qualified opportunities per SDR per month | 10-20 |
 | AE demo-to-close rate | 20-30% |
 | Average sales cycle | 30-90 days |
+
+These benchmarks come from the book's era (Salesforce, mid-2000s, published 2011). Cold-email response rates are generally lower today, so treat them as a ceiling and plan with the user's own numbers once a few weeks of data exist. Current deliverability rules also matter: since 2024, Gmail and Yahoo require bulk senders to authenticate their domains (SPF, DKIM, DMARC), offer one-click unsubscribe, and keep spam complaints low. Send from a warmed secondary domain and keep daily volume per mailbox modest.
 
 See [references/pipeline-math.md](references/pipeline-math.md) when sizing the SDR team to a revenue target — it has the full capacity-planning and revenue-modeling templates.
 
@@ -200,8 +204,8 @@ Audit any B2B sales process:
 
 For the complete system:
 
-- [*"Predictable Revenue"*](https://www.amazon.com/Predictable-Revenue-Business-Practices-Salesforce-com/dp/0984380213?tag=wondelai00-20) by Aaron Ross & Marylou Tyler
-- [*"From Impossible to Inevitable"*](https://www.amazon.com/Impossible-Inevitable-Hyper-Growth-Companies-Predictable/dp/1119166713?tag=wondelai00-20) by Aaron Ross & Jason Lemkin (scaling to $100M+ ARR)
+- [*"Predictable Revenue"*](https://www.amazon.com/Predictable-Revenue-Business-Practices-Salesforce-com/dp/0984380213) by Aaron Ross & Marylou Tyler
+- [*"From Impossible to Inevitable"*](https://www.amazon.com/Impossible-Inevitable-Hyper-Growth-Companies-Predictable/dp/1119166713) by Aaron Ross & Jason Lemkin (scaling to $100M+ ARR)
 
 ## About the Author
 

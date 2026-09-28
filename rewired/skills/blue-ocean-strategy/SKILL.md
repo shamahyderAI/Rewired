@@ -1,6 +1,6 @@
 ---
 name: blue-ocean-strategy
-description: 'Create uncontested market space using value innovation instead of competing head-to-head. Use when the user mentions "blue ocean", "red ocean", "strategy canvas", "ERRC framework", "value innovation", "non-customers", "buyer utility map", "the market is too crowded", "how do we stand out", or "escape the price war". Also trigger when exploring a new market category, or finding underserved or non-customers. Covers the Four Actions Framework, Six Paths, buyer utility map, and value-cost trade-offs. For real strategy formulation and bad-strategy detection, see good-strategy-bad-strategy. For tech adoption strategy, see crossing-the-chasm. For product positioning, see obviously-awesome.'
+description: "Create uncontested market space using value innovation instead of competing head-to-head. Use when the user mentions \"blue ocean\", \"red ocean\", \"strategy canvas\", \"ERRC framework\", \"value innovation\", \"non-customers\", \"buyer utility map\", \"the market is too crowded\", \"how do we stand out\", or \"escape the price war\". Also trigger when exploring a new market category, or finding underserved or non-customers. Covers the Four Actions Framework, Six Paths, buyer utility map, and value-cost trade-offs. For real strategy formulation and bad-strategy detection, see good-strategy-bad-strategy. For tech adoption strategy, see crossing-the-chasm. For product positioning, see obviously-awesome."
 license: MIT
 metadata:
   author: wondelai
@@ -16,6 +16,8 @@ Strategic framework for creating uncontested market space that makes the competi
 **Don't compete in bloody red oceans. Create blue oceans of uncontested market space.** Most companies fight for share in existing industries; winners create new market space where competition is irrelevant by delivering a leap in value for both buyers and themselves. Competition-based strategy is zero-sum — value innovation creates new demand and breaks the value-cost trade-off.
 
 ## Scoring
+
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
 
 **Goal: 10/10.** Score a strategy by how many of the five Quick Diagnostic rows it satisfies, mapped to the bands below:
 
@@ -163,8 +165,8 @@ See [references/sequence.md](references/sequence.md) when validating an idea gat
 
 Based on Blue Ocean Strategy by W. Chan Kim and Renée Mauborgne:
 
-- [*"Blue Ocean Strategy"*](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491?tag=wondelai00-20) by W. Chan Kim & Renée Mauborgne (Expanded Edition)
-- [*"Blue Ocean Shift"*](https://www.amazon.com/Blue-Ocean-Shift-Competing-Confidence/dp/0316314048?tag=wondelai00-20) by W. Chan Kim & Renée Mauborgne (practical guide to making the shift)
+- [*"Blue Ocean Strategy"*](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491) by W. Chan Kim & Renée Mauborgne (Expanded Edition)
+- [*"Blue Ocean Shift"*](https://www.amazon.com/Blue-Ocean-Shift-Competing-Confidence/dp/0316314048) by W. Chan Kim & Renée Mauborgne (practical guide to making the shift)
 
 ## About the Authors
 

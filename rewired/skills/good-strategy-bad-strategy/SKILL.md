@@ -1,6 +1,6 @@
 ---
 name: good-strategy-bad-strategy
-description: 'Formulate and audit real strategy using Richard Rumelt''s "Good Strategy Bad Strategy": an honest diagnosis, a guiding policy, and coherent action instead of goals, vision, and wishful thinking. Use when the user mentions "good strategy bad strategy", "strategy kernel", "diagnosis guiding policy coherent action", "our strategy is just goals", "strategic planning", "mission vs strategy", "annual plan", or "is this actually a strategy". Also trigger when auditing a strategy doc or pitch deck for fluff, turning a goal list into real strategy, formulating strategy for a product or company, or finding leverage and proximate objectives. Covers the kernel of strategy, bad-strategy detection, and sources of power. For product positioning, see obviously-awesome. For uncontested markets, see blue-ocean-strategy.'
+description: "Formulate and audit real strategy using Richard Rumelt's \"Good Strategy Bad Strategy\": an honest diagnosis, a guiding policy, and coherent action instead of goals, vision, and wishful thinking. Use when the user mentions \"good strategy bad strategy\", \"strategy kernel\", \"diagnosis guiding policy coherent action\", \"our strategy is just goals\", \"strategic planning\", \"mission vs strategy\", \"annual plan\", or \"is this actually a strategy\". Also trigger when auditing a strategy doc or pitch deck for fluff, turning a goal list into real strategy, formulating strategy for a product or company, or finding leverage and proximate objectives. Covers the kernel of strategy, bad-strategy detection, and sources of power. For product positioning, see obviously-awesome. For uncontested markets, see blue-ocean-strategy."
 license: MIT
 metadata:
   author: wondelai
@@ -16,6 +16,8 @@ A framework for creating and auditing strategy, distilled from Richard Rumelt's 
 **Strategy is coherent action backed by an honest diagnosis — not goals, vision, or wishful thinking.** A goal ("20% growth") names an ambition; a strategy explains how the ambition will be achieved given the actual obstacles. Bad strategy is not the absence of strategy but an active substitute for it: buzzword fluff, refusal to name the challenge, and laundry lists of initiatives. The heart of strategy work is choice — concentrating effort and resources on the one or two pivotal objectives whose accomplishment unlocks everything else.
 
 ## Scoring
+
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
 
 **Goal: 10/10.** Score strategies, plans, and strategy documents by walking the eight rows of the Quick Diagnostic and counting how many pass. Report the current score and the specific changes needed to reach 10/10. The bands below name what each tier looks like; the row count keeps the rating reproducible run to run.
 
@@ -183,10 +185,10 @@ See [references/case-studies.md](references/case-studies.md) for fully worked en
 
 ## Further Reading
 
-- [*"Good Strategy Bad Strategy: The Difference and Why It Matters"*](https://www.amazon.com/Good-Strategy-Bad-Strategy-Difference/dp/0307886239?tag=wondelai00-20) by Richard Rumelt
-- [*"The Crux: How Leaders Become Strategists"*](https://www.amazon.com/Crux-How-Leaders-Become-Strategists/dp/1541701240?tag=wondelai00-20) by Richard Rumelt
-- [*"Playing to Win: How Strategy Really Works"*](https://www.amazon.com/Playing-Win-Strategy-Really-Works/dp/142218739X?tag=wondelai00-20) by A.G. Lafley & Roger L. Martin
-- [*"7 Powers: The Foundations of Business Strategy"*](https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319?tag=wondelai00-20) by Hamilton Helmer
+- [*"Good Strategy Bad Strategy: The Difference and Why It Matters"*](https://www.amazon.com/Good-Strategy-Bad-Strategy-Difference/dp/0307886239) by Richard Rumelt
+- [*"The Crux: How Leaders Become Strategists"*](https://www.amazon.com/Crux-How-Leaders-Become-Strategists/dp/1541701240) by Richard Rumelt
+- [*"Playing to Win: How Strategy Really Works"*](https://www.amazon.com/Playing-Win-Strategy-Really-Works/dp/142218739X) by A.G. Lafley & Roger L. Martin
+- [*"7 Powers: The Foundations of Business Strategy"*](https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319) by Hamilton Helmer
 
 ## About the Author
 

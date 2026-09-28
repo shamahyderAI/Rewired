@@ -11,7 +11,7 @@ live in `~/notes` as markdown. Timebox: 90 minutes, started 15:00.
 ## Step 0 — Scan for evidence (2 min)
 
 ```bash
-python scripts/open_loop_scanner.py --dir ~/notes --stale-days 14
+python <skill-dir>/scripts/open_loop_scanner.py --dir ~/notes --stale-days 14
 ```
 
 Result: **19 open loops** — 11 unchecked checkboxes across 5 files, 3 TODO markers in scripts,
@@ -39,7 +39,7 @@ Result: **19 open loops** — 11 unchecked checkboxes across 5 files, 3 TODO mar
 8. **Project lists:** exported to `commitments.json` and audited:
 
 ```bash
-python scripts/commitment_auditor.py --input commitments.json
+python <skill-dir>/scripts/commitment_auditor.py --input commitments.json
 ```
 
 ```
@@ -57,7 +57,7 @@ Resolutions: "Hire a designer" got a next action ("post the brief in two freelan
 Ten minutes left in the timebox and phase 3 untouched. Gate what's true:
 
 ```bash
-python scripts/weekly_review_gate.py --done "1,2,3,4,5,6,7,8"
+python <skill-dir>/scripts/weekly_review_gate.py --done "1,2,3,4,5,6,7,8"
 ```
 
 ```
@@ -78,7 +78,7 @@ done yet. Ten minutes remained, and step 9 was half-triggered by the audit anywa
 ## Final gate — COMPLETE
 
 ```bash
-python scripts/weekly_review_gate.py --done "1,2,3,4,5,6,7,8,9,10"
+python <skill-dir>/scripts/weekly_review_gate.py --done "1,2,3,4,5,6,7,8,9,10"
 ```
 
 ```

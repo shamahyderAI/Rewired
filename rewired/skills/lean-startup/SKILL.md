@@ -1,6 +1,6 @@
 ---
 name: lean-startup
-description: 'Design MVPs, validated learning experiments, and pivot-or-persevere decisions using Build-Measure-Learn. Use when the user mentions "MVP scope", "validated learning", "pivot or persevere", "vanity metrics", "test assumptions", "innovation accounting", "build-measure-learn", "minimum viable experiment", "should we pivot", "test a business idea cheaply", or "build the smallest version first". Also trigger when deciding what to include in a first version, measuring startup progress, or evaluating whether to change direction on a product bet. Covers innovation accounting and actionable metrics. For 5-day prototype testing, see design-sprint. For customer motivation analysis, see jobs-to-be-done.'
+description: "Design MVPs, validated learning experiments, and pivot-or-persevere decisions using Build-Measure-Learn. Use when the user mentions \"MVP scope\", \"validated learning\", \"pivot or persevere\", \"vanity metrics\", \"test assumptions\", \"innovation accounting\", \"build-measure-learn\", \"minimum viable experiment\", \"should we pivot\", \"test a business idea cheaply\", or \"build the smallest version first\". Also trigger when deciding what to include in a first version, measuring startup progress, or evaluating whether to change direction on a product bet. Covers innovation accounting and actionable metrics. For 5-day prototype testing, see design-sprint. For customer motivation analysis, see jobs-to-be-done."
 license: MIT
 metadata:
   author: wondelai
@@ -16,6 +16,8 @@ A systematic approach to building startups and launching new products that short
 **Entrepreneurship is a form of management.** Success doesn't require a perfect plan or brilliant insight—it requires a systematic process for testing assumptions, learning from customers, and iterating rapidly. Most startups fail not because they couldn't build what they planned, but because they built the wrong thing: treat every plan as a set of hypotheses to falsify, and spend effort to eliminate waste and accelerate **validated learning**, not to execute a fixed roadmap.
 
 ## Scoring
+
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
 
 **Goal: 10/10.** Score a plan, experiment, or metric set by the five Quick Diagnostic rows—**1 point each** when the answer is yes, **2 points** when it is also backed by evidence on the Validation Ladder (Level 3+):
 
@@ -241,8 +243,8 @@ Audit any product development plan:
 
 For the complete framework, research, and case studies:
 
-- [*"The Lean Startup"*](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898?tag=wondelai00-20) by Eric Ries
-- [*"The Startup Way"*](https://www.amazon.com/Startup-Way-Companies-Entrepreneurial-Management/dp/1101903201?tag=wondelai00-20) by Eric Ries (applying Lean Startup to established companies)
+- [*"The Lean Startup"*](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) by Eric Ries
+- [*"The Startup Way"*](https://www.amazon.com/Startup-Way-Companies-Entrepreneurial-Management/dp/1101903201) by Eric Ries (applying Lean Startup to established companies)
 
 ## About the Author
 

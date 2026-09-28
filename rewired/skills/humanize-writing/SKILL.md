@@ -1,6 +1,6 @@
 ---
 name: humanize-writing
-description: Apply to ALL prose writing and content output — every draft, email, article, LinkedIn post, bio, pitch, report, or edit of existing text. This skill strips the statistical fingerprints of AI writing so output reads like a sharp human wrote it. ALWAYS load this skill before producing any prose deliverable, even short ones, and even when another skill (like email-drafting) is also in use — this skill governs the sentence-level style underneath all of them. Triggers include any request to write, draft, rewrite, punch up, edit, humanize, or "make this sound less AI."
+description: "Sentence-level style rules that strip the statistical fingerprints of AI writing so prose reads like a sharp human wrote it. Use when drafting or editing prose the user will send, publish, or present (emails, LinkedIn posts, articles, bios, pitches, reports), alongside any other writing skill such as email-drafting, and whenever the user asks to rewrite, punch up, humanize, or make something sound less AI. Not needed for code, data tables, or quick conversational answers."
 ---
 
 # Humanize Writing

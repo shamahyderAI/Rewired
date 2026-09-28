@@ -1,6 +1,6 @@
 ---
 name: continuous-discovery
-description: 'Build a weekly cadence of customer touchpoints using Opportunity Solution Trees, assumption mapping, and interview snapshots. Use when the user mentions "continuous discovery", "opportunity solution tree", "weekly interviews", "assumption testing", "discovery habits", "product trio", "outcome-based roadmap", "how do I talk to customers regularly", "we keep building things nobody uses", or "connect research to the roadmap". Also trigger when setting up regular customer feedback loops, prioritizing which experiments to run, or tying discovery insights to delivery work. Covers experience mapping, co-creation, and prioritizing opportunities. For interview technique, see mom-test. For team structure, see inspired-product.'
+description: "Build a weekly cadence of customer touchpoints using Opportunity Solution Trees, assumption mapping, and interview snapshots. Use when the user mentions \"continuous discovery\", \"opportunity solution tree\", \"weekly interviews\", \"assumption testing\", \"discovery habits\", \"product trio\", \"outcome-based roadmap\", \"how do I talk to customers regularly\", \"we keep building things nobody uses\", or \"connect research to the roadmap\". Also trigger when setting up regular customer feedback loops, prioritizing which experiments to run, or tying discovery insights to delivery work. Covers experience mapping, co-creation, and prioritizing opportunities. For interview technique, see mom-test. For team structure, see inspired-product."
 license: MIT
 metadata:
   author: wondelai
@@ -16,6 +16,8 @@ Framework for building a sustainable weekly practice of customer discovery that 
 **Good product discovery requires a continuous cadence, not a one-time event.** Teams that talk to customers every week, map opportunities visually, and test assumptions before building consistently outperform teams that rely on intuition, stakeholder opinions, or quarterly research cycles. The benchmark: at least one customer touchpoint per week, every week, by the product trio (product manager, designer, engineer).
 
 ## Scoring
+
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
 
 **Goal: 10/10.** Score a discovery practice by the seven Quick Diagnostic rows below — start at 3, add 1 point per row answered "yes" (max 10). Bands: **9-10** = weekly cadence, a living Opportunity Solution Tree, systematic assumption testing, and every shipped feature traceable to a customer opportunity; **5-6** = some discovery happening but ad hoc, PM-only, or disconnected from delivery; **≤3** = intuition- and stakeholder-driven with no regular customer contact. Report the current score, the failing rows, and the specific fix for each.
 
@@ -195,7 +197,7 @@ See [references/case-studies.md](references/case-studies.md) when adapting the h
 
 Based on the continuous discovery framework developed by Teresa Torres:
 
-- [*"Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value"*](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309?tag=wondelai00-20) by Teresa Torres
+- [*"Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value"*](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309) by Teresa Torres
 
 ## About the Author
 

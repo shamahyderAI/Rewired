@@ -1,6 +1,6 @@
 ---
 name: traction-eos
-description: 'Implement the Entrepreneurial Operating System (EOS) to align vision and execution across a company. Use when the user mentions "EOS", "Entrepreneurial Operating System", "V/TO", "quarterly rocks", "Level 10 meetings", "accountability chart", "IDS process", "my company feels chaotic", "we keep having the same problems", or "get the whole team aligned". Also trigger when a growing company needs meeting structure, goal-setting frameworks, or a systematic way to solve recurring organizational issues. Covers the six EOS components: Vision, People, Data, Issues, Process, Traction. For team motivation design, see drive-motivation. For lean experimentation, see lean-startup.'
+description: "Implement the Entrepreneurial Operating System (EOS) to align vision and execution across a company. Use when the user mentions \"EOS\", \"Entrepreneurial Operating System\", \"V/TO\", \"quarterly rocks\", \"Level 10 meetings\", \"accountability chart\", \"IDS process\", \"my company feels chaotic\", \"we keep having the same problems\", or \"get the whole team aligned\". Also trigger when a growing company needs meeting structure, goal-setting frameworks, or a systematic way to solve recurring organizational issues. Covers the six EOS components: Vision, People, Data, Issues, Process, Traction. For team motivation design, see drive-motivation. For lean experimentation, see lean-startup."
 license: MIT
 metadata:
   author: wondelai
@@ -17,7 +17,9 @@ A complete system for running a business with six key components. Designed for e
 
 ## Scoring
 
-**Goal: 10/10.** Score the business by how many of the six Quick Diagnostic rows pass (each component is either in place or not), mapped to the bands below. Bands: **9-10** = all six diagnostic rows pass and rocks consistently hit 80%+ completion; **7-8** = five rows pass, one component weak; **5-6** = three to four rows pass; **3-4** = one to two rows pass; **<=2** = no operating rhythm in place. Always state the current score, the failing diagnostic rows, and the next action for each.
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
+
+**Goal: 10/10.** Score the business by how many of the six Quick Diagnostic rows pass (each component is either in place or not), mapped to the bands below. Bands: **9-10** = all six diagnostic rows pass and rocks consistently hit 80%+ completion; **7-8** = five rows pass, one component weak; **5-6** = three to four rows pass; **3-4** = one to two rows pass; **<=2** = no operating rhythm in place. When you score, state the current score, the failing diagnostic rows, and the next action for each.
 
 ## The Six Key Components
 
@@ -249,9 +251,9 @@ For rock-specific mistakes (too many, too vague, business-as-usual, mid-quarter 
 
 For the complete system:
 
-- [*"Traction: Get a Grip on Your Business"*](https://www.amazon.com/Traction-Get-Grip-Your-Business/dp/1936661837?tag=wondelai00-20) by Gino Wickman
-- [*"Get a Grip"*](https://www.amazon.com/Get-Grip-Entrepreneurial-Fable-Business/dp/1939529824?tag=wondelai00-20) by Gino Wickman & Mike Paton (EOS as a business fable)
-- [*"Rocket Fuel"*](https://www.amazon.com/Rocket-Fuel-Essential-Combination-Business/dp/1941631150?tag=wondelai00-20) by Gino Wickman & Mark C. Winters (Visionary + Integrator relationship)
+- [*"Traction: Get a Grip on Your Business"*](https://www.amazon.com/Traction-Get-Grip-Your-Business/dp/1936661837) by Gino Wickman
+- [*"Get a Grip"*](https://www.amazon.com/Get-Grip-Entrepreneurial-Fable-Business/dp/1939529824) by Gino Wickman & Mike Paton (EOS as a business fable)
+- [*"Rocket Fuel"*](https://www.amazon.com/Rocket-Fuel-Essential-Combination-Business/dp/1941631150) by Gino Wickman & Mark C. Winters (Visionary + Integrator relationship)
 
 ## About the Author
 

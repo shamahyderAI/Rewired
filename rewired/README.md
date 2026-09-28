@@ -2,28 +2,11 @@
 
 Everything a Rewired member needs on day one. One install, 37 skills, all vetted.
 
-## Where the plugin works
-
-Rewired skills run in **Cowork** and **Claude Code**. Claude Chat does not read
-plugins. If Claude tells you it cannot bring the plugin into Chat, nothing is
-broken. Open Cowork and use it there.
-
-## Already built a similar skill?
-
-Keep it. If you already made your own board of advisors, briefing, or another
-skill in class, Claude can merge the Rewired plugin's improvements into your
-version instead of installing a duplicate. Ask it to check your existing skills
-before it adds anything new.
-
-Use this installation prompt in Cowork:
-
-> In Cowork, install the Rewired plugin from https://github.com/shamahyderAI/Rewired and walk me through anything I need to click. Before adding any skill, check whether I already have a skill that serves the same purpose. If I do, offer to merge the Rewired improvements into my version instead of installing a duplicate.
-
 ## Your daily operating system
 
 - **morning-brief** — Say "run my morning brief" and get a calm, hand-drawn view of your day: your calendar as terrain, what needs you, what's already sorted. Connect your calendar, email, and chat, then ask Claude to set it up as a recurring weekday task so it's waiting with your coffee.
 - **meeting-briefing** — Connect your calendar and say "prep my day." Claude researches everyone you're meeting and delivers a two-minute briefing per meeting: role, background, company, prior contact. Ask for it every morning and it becomes your standing chief of staff.
-- **email-drafting** — Drafts every email in your voice, not corporate filler. Works out of the box; gets scary-good once you give it a USER.md describing how you actually write. Ask Claude to interview you and build one.
+- **email-drafting** — Drafts every email in your voice, not corporate filler. It learns your style from what Claude already knows about you, a voice file if you have one, or (with your email connected) a few emails you've sent. It never sends anything unless you say so.
 - **humanize-writing** — The quality layer under everything. Strips the statistical fingerprints of AI writing (the em dashes, the "delve," the "it's not X, it's Y") so anything Claude drafts for you reads like a sharp human wrote it fast.
 
 ## Think it through
@@ -55,5 +38,14 @@ Leading people: **high-output-management** (Grove), **drive-motivation** (Pink).
 ## Credits
 
 morning-brief, board-of-advisors, email-drafting, humanize-writing, meeting-briefing, and research-brief by Rewired. Book skills by Wondel (github.com/wondelai/skills, MIT). roast, meetings, and weekly-review by Alireza Rezvani (github.com/alirezarezvani/claude-skills, MIT). All third-party skills reviewed by the Rewired team before inclusion.
+
+## What's new in 1.1
+
+- Email drafting learns your voice from Claude's memory or your sent mail; no USER.md required.
+- Roast, meetings, and weekly review now run cleanly in Cowork, with or without their helper scripts. Weekly review pulls open loops from your connected calendar, email, and task tools.
+- Book frameworks score your work only when you ask for an audit; quick questions get quick answers.
+- Refreshed sales benchmarks and email deliverability guidance in predictable-revenue.
+- Removed links to skills that were never part of this toolkit, and cleaned up book links.
+- Tighter skill descriptions so the right skill fires at the right time.
 
 Built by Rewired for members — rewired30.com

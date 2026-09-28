@@ -1,6 +1,6 @@
 ---
 name: monetizing-innovation
-description: 'Design products and pricing around validated willingness to pay, from Ramanujam & Tacke''s "Monetizing Innovation". Use when the user mentions "pricing", "how much should we charge", "willingness to pay", "pricing page", "packaging", "freemium vs free trial", "are we leaving money on the table", "nobody buys at this price", "price increase", or "good-better-best". Also trigger when designing or auditing pricing and packaging, validating willingness to pay before building, segmenting customers by value, or choosing between subscription, usage-based, and freemium models. Covers price-before-product, willingness-to-pay talks, the four failures (feature shock, minivation, hidden gem, undead), leader/filler/killer packaging, and behavioral pricing. For offers and guarantees, see hundred-million-offers. For what customers value, see jobs-to-be-done.'
+description: "Design products and pricing around validated willingness to pay, from Ramanujam & Tacke's \"Monetizing Innovation\". Use when the user mentions \"pricing\", \"how much should we charge\", \"willingness to pay\", \"pricing page\", \"packaging\", \"freemium vs free trial\", \"are we leaving money on the table\", \"nobody buys at this price\", \"price increase\", or \"good-better-best\". Also trigger when designing or auditing pricing and packaging, validating willingness to pay before building, segmenting customers by value, or choosing between subscription, usage-based, and freemium models. Covers price-before-product, willingness-to-pay talks, the four failures (feature shock, minivation, hidden gem, undead), leader/filler/killer packaging, and behavioral pricing. For offers and guarantees, see hundred-million-offers. For what customers value, see jobs-to-be-done."
 license: MIT
 metadata:
   author: wondelai
@@ -16,6 +16,8 @@ A framework for designing the product around the price, distilled from Simon-Kuc
 **Design the product around the price — have the willingness-to-pay talk early.** 72% of new products miss their revenue targets, and the common root cause is treating price as an afterthought: build first, guess a number at launch. Price is a measure of how much customers value what you are building, which makes it the best early signal of whether to build it at all. Test willingness to pay at the concept stage and let it shape scope, segments, packaging, and the business case.
 
 ## Scoring
+
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
 
 **Goal: 10/10.** Rate pricing and packaging decisions 0-10 against the principles below. Report the current score and the specific changes needed to reach 10/10.
 
@@ -213,8 +215,8 @@ See [references/case-studies.md](references/case-studies.md) to watch the whole 
 
 ## Further Reading
 
-- [*"Monetizing Innovation: How Smart Companies Design the Product Around the Price"*](https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867?tag=wondelai00-20) by Madhavan Ramanujam & Georg Tacke
-- [*"Confessions of the Pricing Man: How Price Affects Everything"*](https://www.amazon.com/Confessions-Pricing-Man-Affects-Everything/dp/3319203991?tag=wondelai00-20) by Hermann Simon
+- [*"Monetizing Innovation: How Smart Companies Design the Product Around the Price"*](https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867) by Madhavan Ramanujam & Georg Tacke
+- [*"Confessions of the Pricing Man: How Price Affects Everything"*](https://www.amazon.com/Confessions-Pricing-Man-Affects-Everything/dp/3319203991) by Hermann Simon
 
 ## About the Authors
 

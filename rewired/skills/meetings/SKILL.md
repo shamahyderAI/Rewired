@@ -1,18 +1,19 @@
 ---
 name: meetings
-description: Use when someone wants to decide whether a meeting is worth calling, price a meeting in dollars, build a timeboxed agenda with desired outcomes, or turn messy meeting notes into owned action items — or says "should this be a meeting", "/cs:meeting-prep", or "/cs:meeting-actions". Runs a cost gate (ASYNC / NOT-READY / MEET), builds a decision-first agenda, and extracts an owner + due-date checklist that flags every orphan.
-argument-hint: "[the meeting to gate, or the notes to extract actions from]"
+description: "Use when someone wants to decide whether a meeting is worth calling, price a meeting in dollars, build a timeboxed agenda with desired outcomes, or turn messy meeting notes into owned action items — or says \"should this be a meeting\", \"is this meeting worth it\", \"build an agenda\", or \"pull the action items from these notes\". Runs a cost gate (ASYNC / NOT-READY / MEET), builds a decision-first agenda, and extracts an owner + due-date checklist that flags every orphan."
 license: MIT
 metadata:
-  version: 1.0.0
-  build_pattern: "Path-B discipline skill — Rogelberg/HBR meeting-science canon + deterministic gate/agenda/extraction scripts"
-  distinct_from: "project-management (team ceremonies + Jira delivery flow; this is personal meeting hygiene); business-operations/internal-comms (org-level communication design; this never auto-sends); productivity/capture (private brain-dump triage; this parses shared meeting notes)"
+  version: 1.1.0
+  author: Alireza Rezvani (adapted for Cowork by Rewired)
 ---
 
 # Meetings — Cost Gate → Timeboxed Agenda → Owned Actions
 
-> **Portability:** Reasoning-led skill with 3 stdlib Python scripts. No external APIs, no LLM calls
-> in scripts, nothing auto-sent. The scripts fix the discipline; the user runs the meeting.
+> **Portability:** Reasoning-led skill with 3 standard-library Python scripts. No external APIs, no
+> LLM calls in scripts, nothing auto-sent. The scripts live in the `scripts/` folder next to this
+> SKILL.md; call them by that full path. Exit codes below are the scripts' signals to you: translate
+> them into a plain verdict for the user, never show raw codes. If Python isn't available, apply the
+> same checks by reasoning.
 
 ## What this does
 
@@ -44,16 +45,16 @@ meeting is done when every action has an owner and a date; that completion check
 
 ```bash
 # 1. Gate: should this meeting exist?
-python scripts/meeting_cost_calculator.py --attendees 6 --minutes 60 \
+python <skill-dir>/scripts/meeting_cost_calculator.py --attendees 6 --minutes 60 \
   --avg-rate 90 --include-refocus --has-decision --has-agenda --has-owner
 
 # 2. Agenda: timeboxed, decision-first, outcomes mandatory
-python scripts/agenda_builder.py --length 45 \
+python <skill-dir>/scripts/agenda_builder.py --length 45 \
   --topic "Q3 pricing:Decide usage-based vs seat-based:15:maria" \
   --topic "Launch risks:Discuss open launch blockers:15:sam"
 
 # 4. Extract: raw notes -> owner + due-date checklist with ORPHAN/NO-DUE flags
-python scripts/action_item_extractor.py --input notes.md
+python <skill-dir>/scripts/action_item_extractor.py --input <path-to-notes>   # save pasted notes to a file first
 ```
 
 ## Scripts
@@ -85,13 +86,11 @@ python scripts/action_item_extractor.py --input notes.md
 
 ## Distinct From (don't reach for the wrong skill)
 
-- **`project-management/`** — team ceremonies, sprint cadence, Jira delivery flow. This gates one
-  meeting at a time for the person calling it.
-- **`business-operations/internal-comms`** — org-level communication design. This never designs a
-  comms program and never sends anything.
-- **`productivity/capture`** — triages a private brain-dump. This parses a shared meeting's notes.
+- **meeting-briefing** — researches who the user is meeting. This decides whether the meeting should happen and how to run it.
+- **high-output-management** — Grove's view of meetings as the medium of management (1:1s, operations reviews). This gates and structures one meeting at a time.
+- **weekly-review** — closes the user's own open loops. This handles a shared meeting's action items.
 
 ---
 
-**Version:** 1.0.0
-**Build pattern:** Path-B discipline skill — meeting-science canon preserved + deterministic gate/agenda/extraction scripts added.
+**Version:** 1.1.0
+**Credits:** Alireza Rezvani (MIT), adapted for Cowork by Rewired.

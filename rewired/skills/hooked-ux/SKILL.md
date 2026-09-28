@@ -1,6 +1,6 @@
 ---
 name: hooked-ux
-description: 'Design habit-forming product loops using the Hook Model (Trigger, Action, Variable Reward, Investment). Use when the user mentions "users arent coming back", "habit formation", "engagement loops", "habit zone", or "the manipulation matrix". Also trigger when designing notification or re-engagement strategies, building streaks or progress systems, or analyzing why users stop after signup. Covers ethics evaluation and onboarding for habits. For friction reduction and B=MAP, see improve-retention. For viral sharing, see contagious.'
+description: "Design habit-forming product loops using the Hook Model (Trigger, Action, Variable Reward, Investment). Use when the user mentions \"users arent coming back\", \"habit formation\", \"engagement loops\", \"habit zone\", or \"the manipulation matrix\". Also trigger when designing notification or re-engagement strategies, building streaks or progress systems, or analyzing why users stop after signup. Covers ethics evaluation and onboarding for habits. For intrinsic motivation, see drive-motivation. For viral sharing, see contagious."
 license: MIT
 metadata:
   author: wondelai
@@ -23,7 +23,9 @@ Trigger → Action → Variable Reward → Investment
 
 ## Scoring
 
-**Goal: 10/10.** When reviewing or creating product engagement mechanics, score the loop by the four Quick Diagnostic rows (internal trigger, dead-simple action, variable reward, investment loads next trigger): each row earns 2 (fully satisfied), 1 (partial), or 0 (absent), then `score = round(total / 8 × 10)`. Then apply the ethics gate: if the Manipulation Matrix places the product as Dealer (or it hits any "When NOT to Use" condition), cap the score at 3 regardless of mechanics. Bands: 9-10 = complete loop, internal trigger identified, ethics clear; 5-6 = loop runs but leans on external triggers or predictable rewards; <=3 = broken loop or extractive design. Always state the current score and the specific diagnostic rows blocking 10/10.
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
+
+**Goal: 10/10.** When reviewing or creating product engagement mechanics, score the loop by the four Quick Diagnostic rows (internal trigger, dead-simple action, variable reward, investment loads next trigger): each row earns 2 (fully satisfied), 1 (partial), or 0 (absent), then `score = round(total / 8 × 10)`. Then apply the ethics gate: if the Manipulation Matrix places the product as Dealer (or it hits any "When NOT to Use" condition), cap the score at 3 regardless of mechanics. Bands: 9-10 = complete loop, internal trigger identified, ethics clear; 5-6 = loop runs but leans on external triggers or predictable rewards; <=3 = broken loop or extractive design. When you score, state the current score and the specific diagnostic rows blocking 10/10.
 
 ## The Four Phases
 
@@ -232,8 +234,8 @@ Audit any product feature:
 
 Based on the Hook Model developed by Nir Eyal:
 
-- [*"Hooked: How to Build Habit-Forming Products"*](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788?tag=wondelai00-20) by Nir Eyal
-- [*"Indistractable: How to Control Your Attention and Choose Your Life"*](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/194883653X?tag=wondelai00-20) by Nir Eyal (companion: resisting unwanted habits and building focus)
+- [*"Hooked: How to Build Habit-Forming Products"*](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788) by Nir Eyal
+- [*"Indistractable: How to Control Your Attention and Choose Your Life"*](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/194883653X) by Nir Eyal (companion: resisting unwanted habits and building focus)
 
 ## About the Author
 

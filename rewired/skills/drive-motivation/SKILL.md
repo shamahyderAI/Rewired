@@ -1,6 +1,6 @@
 ---
 name: drive-motivation
-description: 'Design motivation systems using Autonomy, Mastery, and Purpose (AMP) for products and teams. Use when the user mentions "intrinsic motivation", "gamification isnt working", "rewards arent working", "autonomy", "mastery", "purpose-driven", "my team is disengaged", or "how do I motivate people". Also trigger when designing onboarding progression, fixing broken gamification, or building team structures that sustain high performance. Covers why carrot-and-stick fails and how to build progress systems. For habit-forming product loops, see hooked-ux. For retention behavior design, see improve-retention.'
+description: "Design motivation systems using Autonomy, Mastery, and Purpose (AMP) for products and teams. Use when the user mentions \"intrinsic motivation\", \"gamification isnt working\", \"rewards arent working\", \"autonomy\", \"mastery\", \"purpose-driven\", \"my team is disengaged\", or \"how do I motivate people\". Also trigger when designing onboarding progression, fixing broken gamification, or building team structures that sustain high performance. Covers why carrot-and-stick fails and how to build progress systems. For habit-forming product loops, see hooked-ux."
 license: MIT
 metadata:
   author: wondelai
@@ -17,13 +17,15 @@ Design motivation systems for products, teams, and organizations using the scien
 
 ## Scoring
 
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
+
 **Goal: 10/10.** Score any motivation system (product features, team incentives, gamification, engagement loops) against the [Quick Diagnostic](#quick-diagnostic): start at 5, add 1 for each of the first five rows answered "yes," then **subtract 2 if the sixth row is also "yes"** — an "if-then" reward doing the motivating crowds out the rest. Bands:
 
 - **9-10** — autonomy, mastery, and purpose all present; no if-then crowding-out.
 - **5-6** — one pillar carries the system; the other two are weak or extrinsic.
 - **≤3** — relies on rewards, mandates, or controlling behaviors; intrinsic motivation absent.
 
-Always state the current score, which diagnostic rows failed, and the specific fixes to reach 10/10.
+When you score, state the current score, which diagnostic rows failed, and the specific fixes to reach 10/10.
 
 ## Motivation 1.0, 2.0, and 3.0
 
@@ -192,8 +194,8 @@ Audit any motivation system:
 
 Based on Daniel Pink's research on motivation science:
 
-- [*"Drive: The Surprising Truth About What Motivates Us"*](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805?tag=wondelai00-20) by Daniel H. Pink
-- [*"To Sell Is Human"*](https://www.amazon.com/Sell-Human-Surprising-Moving-Others/dp/1594631905?tag=wondelai00-20) by Daniel H. Pink (applying motivation to sales and persuasion)
+- [*"Drive: The Surprising Truth About What Motivates Us"*](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) by Daniel H. Pink
+- [*"To Sell Is Human"*](https://www.amazon.com/Sell-Human-Surprising-Moving-Others/dp/1594631905) by Daniel H. Pink (applying motivation to sales and persuasion)
 
 ## About the Author
 

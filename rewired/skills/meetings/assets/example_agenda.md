@@ -6,7 +6,7 @@ canonical shape for what the scripts produce and how the pieces snap together.
 ## Step 1 — The gate
 
 ```bash
-python scripts/meeting_cost_calculator.py --attendees 6 --minutes 45 \
+python <skill-dir>/scripts/meeting_cost_calculator.py --attendees 6 --minutes 45 \
   --avg-rate 90 --include-refocus --has-decision --has-agenda --has-owner
 ```
 
@@ -33,7 +33,7 @@ next step would be a memo outline, not an agenda.)
 ## Step 2 — The agenda
 
 ```bash
-python scripts/agenda_builder.py --length 45 \
+python <skill-dir>/scripts/agenda_builder.py --length 45 \
   --topic "Metrics review:Inform team of the activation trend:5:alex" \
   --topic "Q3 pricing:Decide usage-based vs seat-based:15:maria" \
   --topic "Launch risks:Discuss open launch blockers:15:sam"

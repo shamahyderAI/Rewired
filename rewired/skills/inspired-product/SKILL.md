@@ -1,6 +1,6 @@
 ---
 name: inspired-product
-description: 'Build empowered product teams using discovery and delivery dual-track. Use when the user mentions "product discovery", "empowered teams", "feature factory", "opportunity assessment", "product vision", "product strategy", "what should we build", or "our roadmap is just a feature list". Also trigger when restructuring teams away from output-driven models, or deciding what to build next based on outcomes. Covers discovery techniques, team structure, opportunity assessment, vision/strategy, and continuous delivery. For customer interviews, see mom-test. For ongoing discovery systems, see continuous-discovery.'
+description: "Build empowered product teams using discovery and delivery dual-track. Use when the user mentions \"product discovery\", \"empowered teams\", \"feature factory\", \"opportunity assessment\", \"product vision\", \"product strategy\", \"what should we build\", or \"our roadmap is just a feature list\". Also trigger when restructuring teams away from output-driven models, or deciding what to build next based on outcomes. Covers discovery techniques, team structure, opportunity assessment, vision/strategy, and continuous delivery. For customer interviews, see mom-test. For ongoing discovery systems, see continuous-discovery."
 license: MIT
 metadata:
   author: wondelai
@@ -19,7 +19,9 @@ Most product failures come not from bad engineering or design but from building 
 
 ## Scoring
 
-**Goal: 7/7.** Score product team structures, discovery practices, or delivery processes by the Quick Diagnostic below -- **1 point per satisfied row**, scored 0-7. Bands: **6-7** = empowered teams own outcomes and discovery runs continuously with engineers; **4-5** = discovery happens but inconsistently, or teams own output with partial outcome accountability; **<=3** = a feature factory: teams receive a roadmap of dated features and skip discovery. Always state the current score and the specific failed diagnostic rows to fix to reach 7/7.
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
+
+**Goal: 7/7.** Score product team structures, discovery practices, or delivery processes by the Quick Diagnostic below -- **1 point per satisfied row**, scored 0-7. Bands: **6-7** = empowered teams own outcomes and discovery runs continuously with engineers; **4-5** = discovery happens but inconsistently, or teams own output with partial outcome accountability; **<=3** = a feature factory: teams receive a roadmap of dated features and skip discovery. When you score, state the current score and the specific failed diagnostic rows to fix to reach 7/7.
 
 ## Framework
 
@@ -198,8 +200,8 @@ See [references/case-studies.md](references/case-studies.md) when you want a wor
 
 For the complete methodology, case studies, and deeper insights:
 
-- [*"Inspired: How to Create Tech Products Customers Love"*](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507?tag=wondelai00-20) by Marty Cagan
-- [*"Empowered: Ordinary People, Extraordinary Products"*](https://www.amazon.com/EMPOWERED-Ordinary-People-Extraordinary-Products/dp/111969129X?tag=wondelai00-20) by Marty Cagan and Chris Jones
+- [*"Inspired: How to Create Tech Products Customers Love"*](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) by Marty Cagan
+- [*"Empowered: Ordinary People, Extraordinary Products"*](https://www.amazon.com/EMPOWERED-Ordinary-People-Extraordinary-Products/dp/111969129X) by Marty Cagan and Chris Jones
 
 ## About the Author
 

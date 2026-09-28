@@ -48,8 +48,7 @@ each surfaces failure modes the others are blind to:
 - **Wisdom of crowds requires independence.** James Surowiecki, *The Wisdom of Crowds* (2004), shows
   aggregated judgments beat individual experts **only when the judges are independent and diverse**.
   This is why Step 2 fires all five in parallel with the same brief but no shared context — they must
-  not anchor on each other. (The same independence principle drives "Phase 2 isolation" in this
-  repo's `c-level-advisor` board-meeting protocol.)
+  not anchor on each other.
 
 ## The Analyst/Investigator split is deliberate
 

@@ -1,6 +1,6 @@
 ---
 name: high-output-management
-description: 'Manage for output using Grove''s "High Output Management": a manager''s output is their organization''s output, raised by high-leverage activities. Use when the user mentions "high output management", "managerial leverage", "one-on-ones", "1:1 agenda", "OKRs", "performance review", "task-relevant maturity", "delegation", "meeting overload", "new manager", "how do I run a 1:1", or "just got promoted to manager". Also trigger when structuring a manager''s calendar and meeting cadence, designing team metrics, running planning, coaching delegation, or preparing performance reviews. Covers leverage, production principles, meetings as the medium of management, decisions, OKRs, and task-relevant maturity. For intrinsic motivation, see drive-motivation. For a company operating system, see traction-eos.'
+description: "Manage for output using Grove's \"High Output Management\": a manager's output is their organization's output, raised by high-leverage activities. Use when the user mentions \"high output management\", \"managerial leverage\", \"one-on-ones\", \"1:1 agenda\", \"OKRs\", \"performance review\", \"task-relevant maturity\", \"delegation\", \"meeting overload\", \"new manager\", \"how do I run a 1:1\", or \"just got promoted to manager\". Also trigger when structuring a manager's calendar and meeting cadence, designing team metrics, running planning, coaching delegation, or preparing performance reviews. Covers leverage, production principles, meetings as the medium of management, decisions, OKRs, and task-relevant maturity. For intrinsic motivation, see drive-motivation. For a company operating system, see traction-eos."
 license: MIT
 metadata:
   author: wondelai
@@ -16,6 +16,8 @@ Manage teams the way Andy Grove ran Intel: a manager's output is not what the ma
 **A manager's output = the output of their organization + the output of the neighboring organizations under their influence.** Nothing a manager does — emails, meetings, reviews, decisions — counts in itself; it counts only through how it raises that combined output. Since managerial time is the scarce input, the craft reduces to one question asked relentlessly: of everything I could do right now, what creates the most output per hour spent? Choose high-leverage activities; eliminate negative-leverage ones.
 
 ## Scoring
+
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
 
 **Goal: 10/10.** Rate management practices, calendars, and processes 0-10 against the principles below. State the current score and the specific changes needed to reach 10/10.
 
@@ -203,9 +205,9 @@ See: [references/case-studies.md](references/case-studies.md) when preparing a r
 
 ## Further Reading
 
-- [*"High Output Management"*](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884?tag=wondelai00-20) by Andrew S. Grove
-- [*"Only the Paranoid Survive"*](https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821?tag=wondelai00-20) by Andrew S. Grove
-- [*"Measure What Matters"*](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221?tag=wondelai00-20) by John Doerr
+- [*"High Output Management"*](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) by Andrew S. Grove
+- [*"Only the Paranoid Survive"*](https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821) by Andrew S. Grove
+- [*"Measure What Matters"*](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221) by John Doerr
 
 ## About the Author
 

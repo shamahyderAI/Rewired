@@ -130,7 +130,7 @@ Lists are the most shared content format for several reasons:
 |-------------|------------|---------|
 | Multiple tips on one topic | Numbered list | "9 Ways to Reduce Your Energy Bill" |
 | Step-by-step process | How-to guide | "How to Set Up Your Home Office in 30 Minutes" |
-| Data or statistics | Infographic | "The State of Remote Work in 2024" |
+| Data or statistics | Infographic | "The State of Remote Work [this year]" |
 | Decision support | Comparison table | "Renting vs. Buying: A Side-by-Side Comparison" |
 | Personalized output | Calculator/tool | "How Much Are You Spending on Subscriptions?" |
 | Quality assurance | Checklist | "The Pre-Launch Checklist for Your Online Store" |

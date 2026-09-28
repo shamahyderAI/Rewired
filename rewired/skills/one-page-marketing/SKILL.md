@@ -1,6 +1,6 @@
 ---
 name: one-page-marketing
-description: 'Build a complete marketing plan covering the full customer journey from stranger to raving fan. Use when the user mentions "marketing plan", "marketing strategy", "target market", "USP", "lead nurture", "customer lifetime value", "PVP Index", or "I dont know where to start with marketing". Also trigger when building a marketing plan from scratch, choosing acquisition channels, or designing end-to-end customer-lifecycle campaigns. Covers the PVP Index, channel selection, and advocacy systems. For brand messaging, see storybrand-messaging. For conversion optimization, see cro-methodology.'
+description: "Build a complete marketing plan covering the full customer journey from stranger to raving fan. Use when the user mentions \"marketing plan\", \"marketing strategy\", \"target market\", \"USP\", \"lead nurture\", \"customer lifetime value\", \"PVP Index\", or \"I dont know where to start with marketing\". Also trigger when building a marketing plan from scratch, choosing acquisition channels, or designing end-to-end customer-lifecycle campaigns. Covers the PVP Index, channel selection, and advocacy systems. For brand messaging, see storybrand-messaging. For conversion optimization, see cro-methodology."
 license: MIT
 metadata:
   author: wondelai
@@ -19,7 +19,9 @@ Most businesses treat marketing as disconnected tactics: an ad here, a social po
 
 ## Scoring
 
-**Goal: 10/10.** Score by counting how many of the nine squares are filled in *specifically and measurably* -- a square counts only when it would pass its row in the Quick Diagnostic (e.g. square 1 counts only if you can describe the ideal customer in one specific paragraph; square 2 only if you can complete "We are the only ___ that ___"). Map the count to the band below. Always state the current score and the specific improvements needed to reach 10/10.
+*When to score:* score only when the user shares something to audit (a plan, deck, offer, page, funnel, script) or asks for a rating. For a quick question, answer it directly and skip the score.
+
+**Goal: 10/10.** Score by counting how many of the nine squares are filled in *specifically and measurably* -- a square counts only when it would pass its row in the Quick Diagnostic (e.g. square 1 counts only if you can describe the ideal customer in one specific paragraph; square 2 only if you can complete "We are the only ___ that ___"). Map the count to the band below. When you score, state the current score and the specific improvements needed to reach 10/10.
 
 | Score | Squares passing the diagnostic | Meaning |
 |-------|-------------------------------|---------|
@@ -335,8 +337,8 @@ The direct-response doctrine that underpins all nine squares -- every campaign s
 
 ## Further Reading
 
-- [The 1-Page Marketing Plan](https://www.amazon.com/1-Page-Marketing-Plan-Customers-Money/dp/1989025013?tag=wondelai00-20) by Allan Dib
-- [Lean Marketing](https://www.amazon.com/Lean-Marketing-More-Leads-Customers/dp/1989025048?tag=wondelai00-20) by Allan Dib
+- [The 1-Page Marketing Plan](https://www.amazon.com/1-Page-Marketing-Plan-Customers-Money/dp/1989025013) by Allan Dib
+- [Lean Marketing](https://www.amazon.com/Lean-Marketing-More-Leads-Customers/dp/1989025048) by Allan Dib
 
 ## About the Author
 
